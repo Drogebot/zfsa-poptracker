@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Pyramid",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "progressivelevel6ticket_stage2"
+    ],
+    "children": [
+      {
+        "name": "South Corridor Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 753,
+            "y": 2458,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "South Corridor Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 802,
+            "y": 2459,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "South Corridor Hidden Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 489,
+            "y": 2937,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Small Rooms Top Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 962,
+            "y": 1960,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Small Rooms Bottom Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 962,
+            "y": 2091,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "North East Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 2018,
+            "y": 1417,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "North East Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 2019,
+            "y": 1452,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Moon Gate Center Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","[glitches],progressivebombs,progressiverocsfeather,pyramidcentermoongate,pyramidsouthcorridorkey","[glitches],progressivepegasusboots,progressiverocsfeather,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 1802,
+            "y": 914,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Moon Gate Left Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 1626,
+            "y": 1008,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Moon Gate Right Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 2010,
+            "y": 1074,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 818,
+            "y": 1370,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 866,
+            "y": 1370,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 914,
+            "y": 1371,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 963,
+            "y": 1370,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 5",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 818,
+            "y": 1466,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 6",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 866,
+            "y": 1465,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 7",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 916,
+            "y": 1466,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Chest 8",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivebombs,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressivepegasusboots_stage2,pyramidcentermoongate,pyramidsouthcorridorkey","progressivepegasusboots,progressiverocsfeather_stage2,pyramidcentermoongate,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 962,
+            "y": 1465,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Center Room Bomb Wall Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 501,
+            "y": 863,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,pyramidsouthcorridorkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pyramid",
+            "x": 2845,
+            "y": 178,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

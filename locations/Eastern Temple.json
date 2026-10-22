@@ -1,0 +1,559 @@
+[
+  {
+    "name": "Eastern Temple",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "progressivelevel2ticket_stage2"
+    ],
+    "children": [
+      {
+        "name": "Entrance Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1274,
+            "y": 3146,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Entrance Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1289,
+            "y": 3146,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "East Room Right Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 3050,
+            "y": 2316,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "East Room Top Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2329,
+            "y": 1799,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "East Room Top Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2345,
+            "y": 1799,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "East Room Bottom Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2281,
+            "y": 2379,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "East Room Bottom Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2457,
+            "y": 2380,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "East Room Bottom Chest 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2506,
+            "y": 2379,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "South East Room Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplesoutheastkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2300,
+            "y": 2752,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "South Room Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplesoutheastkey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2269,
+            "y": 3061,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "South Room Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplesoutheastkey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2109,
+            "y": 2902,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "West Room Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs","easterntempleentrancekey,progressiveboomerang","easterntempleentrancekey,progressivebow","easterntempleentrancekey,progressivepegasusboots_stage2","easterntempleentrancekey,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 120,
+            "y": 2121,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "West Room Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs","easterntempleentrancekey,progressiveboomerang","easterntempleentrancekey,progressivebow","easterntempleentrancekey,progressivepegasusboots_stage2","easterntempleentrancekey,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 137,
+            "y": 2123,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "West Room Lower Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs","easterntempleentrancekey,progressiveboomerang","easterntempleentrancekey,progressivebow","easterntempleentrancekey,progressivepegasusboots_stage2","easterntempleentrancekey,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 57,
+            "y": 2463,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "West Room Lower Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs","easterntempleentrancekey,progressiveboomerang","easterntempleentrancekey,progressivebow","easterntempleentrancekey,progressivepegasusboots_stage2","easterntempleentrancekey,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 56,
+            "y": 2512,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "South West Room Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplesouthwestkey,progressivebow"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 618,
+            "y": 2376,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "North Room Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1192,
+            "y": 1643,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "North Room Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1368,
+            "y": 1642,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Battle Room Right Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1707,
+            "y": 1448,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Battle Room Left Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 742,
+            "y": 1371,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressiveboomerang,progressivebow,progressivefirerod","easterntempleentrancekey,progressiveboomerang,progressivebow,progressivelamp","easterntempleentrancekey,progressiveboomerang,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressiveboomerang,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1281,
+            "y": 168,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

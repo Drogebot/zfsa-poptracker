@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Death Mountain Foothills",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Start Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 705,
+            "y": 3297,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Past Bridge Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 675,
+            "y": 2526,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Past Bridge Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 706,
+            "y": 2526,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Mountain Side Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 557,
+            "y": 2092,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Mountain Side Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 749,
+            "y": 2092,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Maze Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivemagichammer","progressivebow,progressivemagichammer","progressivemagichammer,progressivepegasusboots_stage2","progressivemagichammer,progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 841,
+            "y": 1986,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Mountain Side Bomb Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebow,progressivemagichammer","progressivemagichammer,progressivepegasusboots_stage2","[glitches],progressivebombs,progressivemagichammer","[glitches],progressiveboomerang,progressivemagichammer","[glitches],progressivefirerod,progressivemagichammer","[glitches],progressivelamp,progressivemagichammer","[glitches],progressivemagichammer,progressivemagichammer_stage2","[glitches],progressivemagichammer,progressiveslingshot","progressivebombs,progressivemagichammer,progressiverocsfeather_stage2","progressiveboomerang,progressivemagichammer,progressiverocsfeather_stage2","progressivefirerod,progressivemagichammer,progressiverocsfeather_stage2","progressivelamp,progressivemagichammer,progressiverocsfeather_stage2","progressivemagichammer,progressivemagichammer_stage2,progressiverocsfeather_stage2","progressivemagichammer,progressiverocsfeather_stage2,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 959,
+            "y": 1040,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Mountain Path Lower Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivemagichammer,progressivepegasusboots_stage2","[glitches],progressivebombs_stage2,progressivemagichammer","[glitches],progressiveboomerang,progressivemagichammer","[glitches],progressivemagichammer,progressiverocsfeather","[glitches],progressivemagichammer,progressiveslingshot_stage2","progressivebombs_stage2,progressivebow,progressivemagichammer","progressivebombs_stage2,progressivemagichammer,progressiverocsfeather_stage2","progressiveboomerang,progressivebow,progressivemagichammer","progressiveboomerang,progressivemagichammer,progressiverocsfeather_stage2","progressivebow,progressivemagichammer,progressiverocsfeather","progressivebow,progressivemagichammer,progressiveslingshot_stage2","progressivemagichammer,progressiverocsfeather,progressiverocsfeather_stage2","progressivemagichammer,progressiverocsfeather_stage2,progressiveslingshot_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1580,
+            "y": 1413,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hebra's Hill Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivemagichammer","progressivebow,progressivemagichammer","progressivemagichammer,progressivepegasusboots_stage2","progressivemagichammer,progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1666,
+            "y": 465,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hebra's Hill Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivemagichammer","progressivebow,progressivemagichammer","progressivemagichammer,progressivepegasusboots_stage2","progressivemagichammer,progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1685,
+            "y": 465,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivemagichammer","progressivebow,progressivemagichammer","progressivemagichammer,progressivepegasusboots_stage2","progressivemagichammer,progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1793,
+            "y": 53,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

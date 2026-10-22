@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Tower of Winds",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "blueroyaljewel,greenroyaljewel,progressivelevel7ticket_stage2,progressivemaiden_stage6,purpleroyaljewel,redroyaljewel"
+    ],
+    "children": [
+      {
+        "name": "2F Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1308,
+            "y": 2219,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "2F Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1292,
+            "y": 1620,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "3F Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1029,
+            "y": 1208,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "3F Inside Left Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,towerofwindsprogressivekey","progressivelamp,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 130,
+            "y": 1445,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "3F Inside Right Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 465,
+            "y": 1448,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "4F Left Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1164,
+            "y": 1214,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "4F Right Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1549,
+            "y": 1216,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "6F Top Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1572,
+            "y": 42,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "6F Top Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1588,
+            "y": 42,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "6F Bottom Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1659,
+            "y": 492,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Boss Floor Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2127,
+            "y": 1163,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "blueroyaljewel,greenroyaljewel,progressivefirerod,progressiverocsfeather,purpleroyaljewel,redroyaljewel,towerofwindsprogressivekey_stage2","blueroyaljewel,greenroyaljewel,progressivelamp,progressiverocsfeather,purpleroyaljewel,redroyaljewel,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2487,
+            "y": 643,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

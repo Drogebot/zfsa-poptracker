@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Village of the Blue Maiden",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "progressivelevel2ticket"
+    ],
+    "children": [
+      {
+        "name": "Intersection Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 634,
+            "y": 1133,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Intersection Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 651,
+            "y": 1133,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Village East Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2942,
+            "y": 1458,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Village North Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate,villageofthebluemaidenvillagenorthmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2746,
+            "y": 700,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Village North Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate,villageofthebluemaidenvillagenorthmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2746,
+            "y": 733,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Village West Right House Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 367,
+            "y": 402,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Village West Left Dark House Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate,villageofthebluemaidenvillagewestmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1654,
+            "y": 1390,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,villageofthebluemaidenbook,villageofthebluemaidenvillageentrancemoongate","progressivepegasusboots,villageofthebluemaidenbook,villageofthebluemaidenvillageentrancemoongate","progressiverocsfeather,villageofthebluemaidenbook,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2305,
+            "y": 247,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]
