@@ -1,0 +1,1477 @@
+[
+    {
+        "name": "theicetempleprogressivekey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "theicetempleprogressivekey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "theicetempleprogressivekey, theicetempleprogressivekey_stage1"
+            },
+            {
+                "name": "theicetempleprogressivekey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "theicetempleprogressivekey_stage2"
+            },
+            {
+                "name": "theicetempleprogressivekey stage3",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "theicetempleprogressivekey_stage3"
+            },
+            {
+                "name": "theicetempleprogressivekey stage4",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "theicetempleprogressivekey_stage4"
+            }
+        ]
+    },
+    {
+        "name": "realmoftheheavenssouthwestsidemoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "realmoftheheavenssouthwestsidemoongate"
+    },
+    {
+        "name": "lostwoodseastwoodsmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lostwoodseastwoodsmoongate"
+    },
+    {
+        "name": "realmoftheheavenseastsidekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "realmoftheheavenseastsidekey"
+    },
+    {
+        "name": "progressivebombs",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "bombs",
+                "inherit_codes": true,
+                "img": "/images/items/bombs.png",
+                "codes": "progressivebombs, progressivebombs_stage1"
+            },
+            {
+                "name": "bombs L2",
+                "inherit_codes": true,
+                "img": "/images/items/bombs.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressivebombs_stage2"
+            }
+        ]
+    },
+    {
+        "name": "easterntempleentrancekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "easterntempleentrancekey"
+    },
+    {
+        "name": "frozenhyrulehousewestmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frozenhyrulehousewestmoongate"
+    },
+    {
+        "name": "progressivelamp",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "lamp",
+                "inherit_codes": true,
+                "img": "/images/items/lamp.png",
+                "codes": "progressivelamp, progressivelamp_stage1"
+            },
+            {
+                "name": "lamp L2",
+                "inherit_codes": true,
+                "img": "/images/items/lamp.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressivelamp_stage2"
+            }
+        ]
+    },
+    {
+        "name": "caveofnoreturnprogressivekey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "caveofnoreturnprogressivekey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "caveofnoreturnprogressivekey, caveofnoreturnprogressivekey_stage1"
+            },
+            {
+                "name": "caveofnoreturnprogressivekey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "caveofnoreturnprogressivekey_stage2"
+            },
+            {
+                "name": "caveofnoreturnprogressivekey stage3",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "caveofnoreturnprogressivekey_stage3"
+            }
+        ]
+    },
+    {
+        "name": "villageofthebluemaidenvillagenorthmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "villageofthebluemaidenvillagenorthmoongate"
+    },
+    {
+        "name": "progressiveshovel",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "shovel",
+                "inherit_codes": true,
+                "img": "/images/items/shovel.png",
+                "codes": "progressiveshovel, progressiveshovel_stage1"
+            },
+            {
+                "name": "shovel L2",
+                "inherit_codes": true,
+                "img": "/images/items/shovel.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressiveshovel_stage2"
+            }
+        ]
+    },
+    {
+        "name": "progressivefirerod",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "fire rod",
+                "inherit_codes": true,
+                "img": "/images/items/fire_rod.png",
+                "codes": "progressivefirerod, progressivefirerod_stage1"
+            },
+            {
+                "name": "fire rod L2",
+                "inherit_codes": true,
+                "img": "/images/items/fire_rod.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressivefirerod_stage2"
+            }
+        ]
+    },
+    {
+        "name": "villageofthebluemaidenletter",
+        "type": "toggle",
+        "img": "images/items/letter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "villageofthebluemaidenletter"
+    },
+    {
+        "name": "green royal jewel",
+        "type": "toggle",
+        "img": "images/items/green_royal_jewel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greenroyaljewel"
+    },
+    {
+        "name": "easterntemplesoutheastkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "easterntemplesoutheastkey"
+    },
+    {
+        "name": "bigblueforcegem",
+        "type": "toggle",
+        "img": "images/items/bigblueforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bigblueforcegem"
+    },
+    {
+        "name": "infiltrantionofhyrulecastlelowerjailkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infiltrantionofhyrulecastlelowerjailkey"
+    },
+    {
+        "name": "red royal jewel",
+        "type": "toggle",
+        "img": "images/items/red_royal_jewel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redroyaljewel"
+    },
+    {
+        "name": "greenforcegem",
+        "type": "toggle",
+        "img": "images/items/greenforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greenforcegem"
+    },
+    {
+        "name": "easterntemplenortheastmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "easterntemplenortheastmoongate"
+    },
+    {
+        "name": "villageofthebluemaidenvillagewestmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "villageofthebluemaidenvillagewestmoongate"
+    },
+    {
+        "name": "palaceofwindsprogressive2fnorthkey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "palaceofwindsprogressive2fnorthkey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+				"img_mods": "overlay|/images/items/numbers/1.png",
+                "codes": "palaceofwindsprogressive2fnorthkey, palaceofwindsprogressive2fnorthkey_stage1"
+            },
+            {
+                "name": "palaceofwindsprogressive2fnorthkey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "palaceofwindsprogressive2fnorthkey_stage2"
+            }
+        ]
+    },
+    {
+        "name": "theswampprogressivegraveyardeastkey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "theswampprogressivegraveyardeastkey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "theswampprogressivegraveyardeastkey, theswampprogressivegraveyardeastkey_stage1"
+            },
+            {
+                "name": "theswampprogressivegraveyardeastkey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "theswampprogressivegraveyardeastkey_stage2"
+            }
+        ]
+    },
+    {
+        "name": "pyramidsouthcorridorkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pyramidsouthcorridorkey"
+    },
+    {
+        "name": "blue bracelet",
+        "type": "toggle",
+        "img": "images/items/blue_bracelet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluebracelet"
+    },
+    {
+        "name": "purple royal jewel",
+        "type": "toggle",
+        "img": "images/items/purple_royal_jewel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purpleroyaljewel"
+    },
+    {
+        "name": "lostwoodsnorthwoodsstoragekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lostwoodsnorthwoodsstoragekey"
+    },
+    {
+        "name": "smallredforcegem",
+        "type": "toggle",
+        "img": "images/items/smallredforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallredforcegem"
+    },
+    {
+        "name": "hyrulecastleinnerwallkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hyrulecastleinnerwallkey"
+    },
+    {
+        "name": "blue royal jewel",
+        "type": "toggle",
+        "img": "images/items/blue_royal_jewel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blueroyaljewel"
+    },
+    {
+        "name": "progressivebow",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "bow",
+                "inherit_codes": true,
+                "img": "/images/items/bow.png",
+                "codes": "progressivebow, progressivebow_stage1"
+            },
+            {
+                "name": "bow L2",
+                "inherit_codes": true,
+                "img": "/images/items/bow.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressivebow_stage2"
+            }
+        ]
+    },
+    {
+        "name": "power bracelet",
+        "type": "toggle",
+        "img": "images/items/power_bracelet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "powerbracelet"
+    },
+    {
+        "name": "progressiveslingshot",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "slingshot",
+                "inherit_codes": true,
+                "img": "/images/items/slingshot.png",
+                "codes": "progressiveslingshot, progressiveslingshot_stage1"
+            },
+            {
+                "name": "slingshot L2",
+                "inherit_codes": true,
+                "img": "/images/items/slingshot.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressiveslingshot_stage2"
+            }
+        ]
+    },
+    {
+        "name": "lakehyliahousekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lakehyliahousekey"
+    },
+    {
+        "name": "smallblueforcegem",
+        "type": "toggle",
+        "img": "images/items/smallblueforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallblueforcegem"
+    },
+    {
+        "name": "villageofthebluemaidenvillageeastmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "villageofthebluemaidenvillageeastmoongate"
+    },
+    {
+        "name": "palaceofwindsprogressivemoongate",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "palaceofwindsprogressivemoongate stage1",
+                "inherit_codes": true,
+                "img": "/images/items/moon_pearl.png",
+				"img_mods": "overlay|/images/items/numbers/1.png",
+                "codes": "palaceofwindsprogressivemoongate, palaceofwindsprogressivemoongate_stage1"
+            },
+            {
+                "name": "palaceofwindsprogressivemoongate stage2",
+                "inherit_codes": true,
+                "img": "/images/items/moon_pearl.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "palaceofwindsprogressivemoongate_stage2"
+            },
+            {
+                "name": "palaceofwindsprogressivemoongate stage3",
+                "inherit_codes": true,
+                "img": "/images/items/moon_pearl.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "palaceofwindsprogressivemoongate_stage3"
+            },
+            {
+                "name": "palaceofwindsprogressivemoongate stage4",
+                "inherit_codes": true,
+                "img": "/images/items/moon_pearl.png",
+				"img_mods": "overlay|/images/items/numbers/4.png",
+                "codes": "palaceofwindsprogressivemoongate_stage4"
+            }
+        ]
+    },
+    {
+        "name": "progressivelevel6ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 6-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel6ticket, progressivelevel6ticket_stage1"
+            },
+            {
+                "name": "level 6-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel6ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "pyramidcentermoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pyramidcentermoongate"
+    },
+    {
+        "name": "infiltrantionofhyrulecastleprogressivebasementkey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "infiltrantionofhyrulecastleprogressivebasementkey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "infiltrantionofhyrulecastleprogressivebasementkey, infiltrantionofhyrulecastleprogressivebasementkey_stage1"
+            },
+            {
+                "name": "infiltrantionofhyrulecastleprogressivebasementkey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "infiltrantionofhyrulecastleprogressivebasementkey_stage2"
+            },
+            {
+                "name": "infiltrantionofhyrulecastleprogressivebasementkey stage3",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "infiltrantionofhyrulecastleprogressivebasementkey_stage3"
+            }
+        ]
+    },
+    {
+        "name": "villageofthebluemaidenvillageentrancemoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "villageofthebluemaidenvillageentrancemoongate"
+    },
+    {
+        "name": "progressivelevel8ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 8-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel8ticket, progressivelevel8ticket_stage1"
+            },
+            {
+                "name": "level 8-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel8ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "progressivelevel2ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 2-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel2ticket, progressivelevel2ticket_stage1"
+            },
+            {
+                "name": "level 2-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel2ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "pyramidsoutheastkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pyramidsoutheastkey"
+    },
+    {
+        "name": "firetrap",
+        "type": "toggle",
+        "img": "images/items/firetrap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firetrap"
+    },
+    {
+        "name": "blueforcegem",
+        "type": "toggle",
+        "img": "images/items/blueforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blueforcegem"
+    },
+    {
+        "name": "progressivelevel3ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 3-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel3ticket, progressivelevel3ticket_stage1"
+            },
+            {
+                "name": "level 3-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel3ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "thefieldstoreroomkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thefieldstoreroomkey"
+    },
+    {
+        "name": "villageofthebluemaidenbook",
+        "type": "toggle",
+        "img": "images/items/magic_book.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "villageofthebluemaidenbook"
+    },
+    {
+        "name": "deserttemplelaserroommoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deserttemplelaserroommoongate"
+    },
+    {
+        "name": "templeofdarknesssecretroommoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "templeofdarknesssecretroommoongate"
+    },
+    {
+        "name": "progressiveboomerang",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "boomerang",
+                "inherit_codes": true,
+                "img": "/images/items/boomerang.png",
+                "codes": "progressiveboomerang, progressiveboomerang_stage1"
+            },
+            {
+                "name": "boomerang L2",
+                "inherit_codes": true,
+                "img": "/images/items/boomerang.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressiveboomerang_stage2"
+            }
+        ]
+    },
+    {
+        "name": "templeofdarknessprogressivekey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "templeofdarknessprogressivekey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "templeofdarknessprogressivekey, templeofdarknessprogressivekey_stage1"
+            },
+            {
+                "name": "templeofdarknessprogressivekey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "templeofdarknessprogressivekey_stage2"
+            },
+            {
+                "name": "templeofdarknessprogressivekey stage3",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "templeofdarknessprogressivekey_stage3"
+            },
+            {
+                "name": "templeofdarknessprogressivekey stage4",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "templeofdarknessprogressivekey_stage4"
+            },
+            {
+                "name": "templeofdarknessprogressivekey stage5",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "templeofdarknessprogressivekey_stage5"
+            }
+        ]
+    },
+    {
+        "name": "themountainpathwaterstoragekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "themountainpathwaterstoragekey"
+    },
+    {
+        "name": "smallgreenforcegem",
+        "type": "toggle",
+        "img": "images/items/smallgreenforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallgreenforcegem"
+    },
+    {
+        "name": "heart",
+        "type": "toggle",
+        "img": "images/items/heart.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heart"
+    },
+    {
+        "name": "progressivelevel7ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 7-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel7ticket, progressivelevel7ticket_stage1"
+            },
+            {
+                "name": "level 7-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel7ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "thedarkcloud3dmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thedarkcloud3dmoongate"
+    },
+    {
+        "name": "desertofdoubtgerudotownnortheastmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "desertofdoubtgerudotownnortheastmoongate"
+    },
+    {
+        "name": "heartpiece",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "heartpiece stage1",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/1.png",
+                "codes": "heartpiece, heartpiece_stage1"
+            },
+            {
+                "name": "heartpiece stage2",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "heartpiece_stage2"
+            },
+            {
+                "name": "heartpiece stage3",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "heartpiece_stage3"
+            },
+            {
+                "name": "heartpiece stage4",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/4.png",
+                "codes": "heartpiece_stage4"
+            },
+            {
+                "name": "heartpiece stage5",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/5.png",
+                "codes": "heartpiece_stage5"
+            },
+            {
+                "name": "heartpiece stage6",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/6.png",
+                "codes": "heartpiece_stage6"
+            },
+            {
+                "name": "heartpiece stage7",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/7.png",
+                "codes": "heartpiece_stage7"
+            },
+            {
+                "name": "heartpiece stage8",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/8.png",
+                "codes": "heartpiece_stage8"
+            },
+            {
+                "name": "heartpiece stage9",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/9.png",
+                "codes": "heartpiece_stage9"
+            },
+            {
+                "name": "heartpiece stage10",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/10.png",
+                "codes": "heartpiece_stage10"
+            },
+            {
+                "name": "heartpiece stage11",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/11.png",
+                "codes": "heartpiece_stage11"
+            },
+            {
+                "name": "heartpiece stage12",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/12.png",
+                "codes": "heartpiece_stage12"
+            },
+            {
+                "name": "heartpiece stage13",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/13.png",
+                "codes": "heartpiece_stage13"
+            },
+            {
+                "name": "heartpiece stage14",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/14.png",
+                "codes": "heartpiece_stage14"
+            },
+            {
+                "name": "heartpiece stage15",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/15.png",
+                "codes": "heartpiece_stage15"
+            },
+            {
+                "name": "heartpiece stage16",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/16.png",
+                "codes": "heartpiece_stage16"
+            },
+            {
+                "name": "heartpiece stage17",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/17.png",
+                "codes": "heartpiece_stage17"
+            },
+            {
+                "name": "heartpiece stage18",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/18.png",
+                "codes": "heartpiece_stage18"
+            },
+            {
+                "name": "heartpiece stage19",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/19.png",
+                "codes": "heartpiece_stage19"
+            },
+            {
+                "name": "heartpiece stage20",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/20.png",
+                "codes": "heartpiece_stage20"
+            },
+            {
+                "name": "heartpiece stage21",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/21.png",
+                "codes": "heartpiece_stage21"
+            },
+            {
+                "name": "heartpiece stage22",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/22.png",
+                "codes": "heartpiece_stage22"
+            },
+            {
+                "name": "heartpiece stage23",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/23.png",
+                "codes": "heartpiece_stage23"
+            },
+            {
+                "name": "heartpiece stage24",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/24.png",
+                "codes": "heartpiece_stage24"
+            },
+            {
+                "name": "heartpiece stage25",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/25.png",
+                "codes": "heartpiece_stage25"
+            },
+            {
+                "name": "heartpiece stage26",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/26.png",
+                "codes": "heartpiece_stage26"
+            },
+            {
+                "name": "heartpiece stage27",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/27.png",
+                "codes": "heartpiece_stage27"
+            },
+            {
+                "name": "heartpiece stage28",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/28.png",
+                "codes": "heartpiece_stage28"
+            },
+            {
+                "name": "heartpiece stage29",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/29.png",
+                "codes": "heartpiece_stage29"
+            },
+            {
+                "name": "heartpiece stage30",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/30.png",
+                "codes": "heartpiece_stage30"
+            },
+            {
+                "name": "heartpiece stage31",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/31.png",
+                "codes": "heartpiece_stage31"
+            },
+            {
+                "name": "heartpiece stage32",
+                "inherit_codes": true,
+                "img": "/images/items/heart_piece.png",
+				"img_mods": "overlay|/images/items/numbers/32.png",
+                "codes": "heartpiece_stage32"
+            }
+        ]
+    },
+    {
+        "name": "smallpurpleforcegem",
+        "type": "toggle",
+        "img": "images/items/smallpurpleforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallpurpleforcegem"
+    },
+    {
+        "name": "palaceofwinds2feastkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "palaceofwinds2feastkey"
+    },
+    {
+        "name": "progressivelevel4ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 4-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel4ticket, progressivelevel4ticket_stage1"
+            },
+            {
+                "name": "level 4-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel4ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "towerofwindsprogressivekey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "towerofwindsprogressivekey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "towerofwindsprogressivekey, towerofwindsprogressivekey_stage1"
+            },
+            {
+                "name": "towerofwindsprogressivekey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "towerofwindsprogressivekey_stage2"
+            }
+        ]
+    },
+    {
+        "name": "progressivepegasusboots",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "pegasus boots",
+                "inherit_codes": true,
+                "img": "/images/items/pegasus_boots.png",
+                "codes": "progressivepegasusboots, progressivepegasusboots_stage1"
+            },
+            {
+                "name": "pegasus boots L2",
+                "inherit_codes": true,
+                "img": "/images/items/pegasus_boots.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressivepegasusboots_stage2"
+            }
+        ]
+    },
+    {
+        "name": "redforcegem",
+        "type": "toggle",
+        "img": "images/items/redforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redforcegem"
+    },
+    {
+        "name": "progressivemaiden",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "blue maiden",
+                "inherit_codes": true,
+                "img": "/images/items/blue_maiden.png",
+				"img_mods": "overlay|/images/items/numbers/1.png",
+                "codes": "progressivemaiden, progressivemaiden_stage1"
+            },
+            {
+                "name": "yellow maiden",
+                "inherit_codes": true,
+                "img": "/images/items/yellow_maiden.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivemaiden_stage2"
+            },
+            {
+                "name": "green maiden",
+                "inherit_codes": true,
+                "img": "/images/items/green_maiden.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivemaiden_stage3"
+            },
+            {
+                "name": "white maiden",
+                "inherit_codes": true,
+                "img": "/images/items/white_maiden.png",
+				"img_mods": "overlay|/images/items/numbers/4.png",
+                "codes": "progressivemaiden_stage4"
+            },
+            {
+                "name": "red maiden",
+                "inherit_codes": true,
+                "img": "/images/items/red_maiden.png",
+				"img_mods": "overlay|/images/items/numbers/5.png",
+                "codes": "progressivemaiden_stage5"
+            },
+            {
+                "name": "purple maiden",
+                "inherit_codes": true,
+                "img": "/images/items/purple_maiden.png",
+				"img_mods": "overlay|/images/items/numbers/6.png",
+                "codes": "progressivemaiden_stage6"
+            },
+            {
+                "name": "zelda",
+                "inherit_codes": true,
+                "img": "/images/items/zelda.png",
+				"img_mods": "overlay|/images/items/numbers/7.png",
+                "codes": "progressivemaiden_stage7"
+            }
+        ]
+    },
+    {
+        "name": "progressiverocsfeather",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "roc's feather",
+                "inherit_codes": true,
+                "img": "/images/items/rocs_feather.png",
+                "codes": "progressiverocsfeather, progressiverocsfeather_stage1"
+            },
+            {
+                "name": "roc's feather L2",
+                "inherit_codes": true,
+                "img": "/images/items/rocs_feather.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressiverocsfeather_stage2"
+            }
+        ]
+    },
+    {
+        "name": "thefieldstangecavekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thefieldstangecavekey"
+    },
+    {
+        "name": "kakarikovillagesoutheasthousekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kakarikovillagesoutheasthousekey"
+    },
+    {
+        "name": "progressivemagichammer",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "magic hammer",
+                "inherit_codes": true,
+                "img": "/images/items/magic_hammer.png",
+                "codes": "progressivemagichammer, progressivemagichammer_stage1"
+            },
+            {
+                "name": "magic hammer L2",
+                "inherit_codes": true,
+                "img": "/images/items/magic_hammer.png",
+				"img_mods": "overlay|/images/items/numbers/l2.png",
+                "codes": "progressivemagichammer_stage2"
+            }
+        ]
+    },
+    {
+        "name": "forcefairy",
+        "type": "toggle",
+        "img": "images/items/forcefairy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "forcefairy"
+    },
+    {
+        "name": "towerofflames4fkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "towerofflames4fkey"
+    },
+    {
+        "name": "theswampmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theswampmoongate"
+    },
+    {
+        "name": "tingletrap",
+        "type": "toggle",
+        "img": "images/items/tingletrap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tingletrap"
+    },
+    {
+        "name": "pyramidsoutheastmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pyramidsoutheastmoongate"
+    },
+    {
+        "name": "easterntemplesouthwestkey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "easterntemplesouthwestkey"
+    },
+    {
+        "name": "easterntemplesouthwestmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "easterntemplesouthwestmoongate"
+    },
+    {
+        "name": "lostwoodssouthwoodsstoragekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lostwoodssouthwoodsstoragekey"
+    },
+    {
+        "name": "biggreenforcegem",
+        "type": "toggle",
+        "img": "images/items/biggreenforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "biggreenforcegem"
+    },
+    {
+        "name": "bigredforcegem",
+        "type": "toggle",
+        "img": "images/items/bigredforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bigredforcegem"
+    },
+    {
+        "name": "infiltrantionofhyrulecastlebasementstairsmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infiltrantionofhyrulecastlebasementstairsmoongate"
+    },
+    {
+        "name": "purpleforcegem",
+        "type": "toggle",
+        "img": "images/items/purpleforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purpleforcegem"
+    },
+    {
+        "name": "frozenhyrulehousekey",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frozenhyrulehousekey"
+    },
+    {
+        "name": "progressivelevel5ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 5-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel5ticket, progressivelevel5ticket_stage1"
+            },
+            {
+                "name": "level 5-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel5ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "bigpurpleforcegem",
+        "type": "toggle",
+        "img": "images/items/bigpurpleforcegem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bigpurpleforcegem"
+    },
+    {
+        "name": "nothing",
+        "type": "toggle",
+        "img": "images/items/nothing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nothing"
+    },
+    {
+        "name": "deserttempleprogressivekey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "deserttempleprogressivekey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "deserttempleprogressivekey, deserttempleprogressivekey_stage1"
+            },
+            {
+                "name": "deserttempleprogressivekey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "deserttempleprogressivekey_stage2"
+            },
+            {
+                "name": "deserttempleprogressivekey stage3",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "deserttempleprogressivekey_stage3"
+            }
+        ]
+    },
+    {
+        "name": "progressivelevel1ticket",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "level 1-2 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/2.png",
+                "codes": "progressivelevel1ticket, progressivelevel1ticket_stage1"
+            },
+            {
+                "name": "level 1-3 ticket",
+                "inherit_codes": true,
+                "img": "/images/items/ticket.png",
+				"img_mods": "overlay|/images/items/numbers/3.png",
+                "codes": "progressivelevel1ticket_stage2"
+            }
+        ]
+    },
+    {
+        "name": "thedarkcloudmergeleftmoongate",
+        "type": "toggle",
+        "img": "images/items/moon_pearl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thedarkcloudmergeleftmoongate"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/magic_book.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

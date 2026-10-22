@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Cave of No Return",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Cave of No Return.png"
+    },
+    {
+        "name": "Death Mountain Foothills",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Death Mountain Foothills.png"
+    },
+    {
+        "name": "Desert Temple",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Desert Temple.png"
+    },
+    {
+        "name": "Desert of Doubt",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Desert of Doubt.png"
+    },
+    {
+        "name": "Eastern Temple",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Eastern Temple.png"
+    },
+    {
+        "name": "Frozen Hyrule",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Frozen Hyrule.png"
+    },
+    {
+        "name": "Hyrule Castle",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hyrule Castle.png"
+    },
+    {
+        "name": "Infiltration of Hyrule Castle",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Infiltration of Hyrule Castle.png"
+    },
+    {
+        "name": "Kakariko Village",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kakariko Village.png"
+    },
+    {
+        "name": "Lake Hylia",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lake Hylia.png"
+    },
+    {
+        "name": "Lost Woods",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lost Woods.png"
+    },
+    {
+        "name": "Palace of Winds",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Palace of Winds.png"
+    },
+    {
+        "name": "Pyramid",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Pyramid.png"
+    },
+    {
+        "name": "Realm of the Heavens",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Realm of the Heavens.png"
+    },
+    {
+        "name": "Temple of Darkness",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Temple of Darkness.png"
+    },
+    {
+        "name": "The Coast",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Coast.png"
+    },
+    {
+        "name": "The Dark Cloud",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Dark Cloud.png"
+    },
+    {
+        "name": "The Field",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Field.png"
+    },
+    {
+        "name": "The Ice Temple",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Ice Temple.png"
+    },
+    {
+        "name": "The Mountain Path",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Mountain Path.png"
+    },
+    {
+        "name": "The Swamp",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Swamp.png"
+    },
+    {
+        "name": "Tower of Flames",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tower of Flames.png"
+    },
+    {
+        "name": "Tower of Winds",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tower of Winds.png"
+    },
+    {
+        "name": "Village of the Blue Maiden",
+        "location_size": 60,
+        "location_border_thickness": 1,
+        "img": "images/maps/Village of the Blue Maiden.png"
+    },
+    {
+        "name": "Hyrule",
+        "img": "images/maps/Hyrule.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    }
+]

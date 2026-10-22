@@ -1,0 +1,124 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivepegasusboots",
+                                "progressivelamp",
+                                "progressiveboomerang",
+                                "progressivebow",
+                                "progressivemagichammer",
+                                "progressivefirerod",
+                                "progressiverocsfeather",
+                                "progressivebombs",
+                                "progressiveshovel",
+                                "progressiveslingshot"
+                            ],
+                            [
+								"powerbracelet",
+								"bluebracelet",
+                                "progressivelevel1ticket",
+                                "progressivelevel2ticket",
+                                "progressivelevel3ticket",
+                                "progressivelevel4ticket",
+                                "progressivelevel5ticket",
+                                "progressivelevel6ticket",
+                                "progressivelevel7ticket",
+                                "progressivelevel8ticket",
+                            ],
+                            [
+                                "heartpiece",
+                                "blueroyaljewel",
+                                "greenroyaljewel",
+                                "redroyaljewel",
+                                "purpleroyaljewel",
+                                "progressivemaiden",
+                                "palaceofwindsprogressivemoongate",
+                                "palaceofwindsprogressive2fnorthkey",
+								"",
+								"update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivepegasusboots",
+                                "progressivelamp",
+                                "progressiveboomerang",
+                                "progressivebow",
+                                "progressivemagichammer",
+                                "progressivefirerod",
+                                "progressiverocsfeather",
+                                "progressivebombs",
+                                "progressiveshovel",
+                                "progressiveslingshot"
+                            ],
+                            [
+								"powerbracelet",
+								"bluebracelet",
+                                "progressivelevel1ticket",
+                                "progressivelevel2ticket",
+                                "progressivelevel3ticket",
+                                "progressivelevel4ticket",
+                                "progressivelevel5ticket",
+                                "progressivelevel6ticket",
+                                "progressivelevel7ticket",
+                                "progressivelevel8ticket"
+                            ],
+                            [
+                                "heartpiece",
+                                "blueroyaljewel",
+                                "greenroyaljewel",
+                                "redroyaljewel",
+                                "purpleroyaljewel",
+                                "progressivemaiden",
+                                "palaceofwindsprogressivemoongate",
+                                "palaceofwindsprogressive2fnorthkey",
+								"",
+								"update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

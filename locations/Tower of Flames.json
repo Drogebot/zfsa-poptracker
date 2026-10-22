@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Tower of Flames",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "progressivelevel3ticket_stage2"
+    ],
+    "children": [
+      {
+        "name": "2F Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 873,
+            "y": 3226,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "3F Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2","[glitches],progressivebombs_stage2","[glitches],progressiveboomerang_stage2","[glitches],progressivebow","[glitches],progressiveslingshot","progressivebombs_stage2,progressiverocsfeather","progressiveboomerang_stage2,progressiverocsfeather","progressivebow,progressiverocsfeather","progressiverocsfeather,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 873,
+            "y": 2748,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "3F Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2","[glitches],progressivebombs_stage2","[glitches],progressiveboomerang_stage2","[glitches],progressivebow","[glitches],progressiveslingshot","progressivebombs_stage2,progressiverocsfeather","progressiveboomerang_stage2,progressiverocsfeather","progressivebow,progressiverocsfeather","progressiverocsfeather,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 969,
+            "y": 2874,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "4F Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2","[glitches],progressivebombs_stage2","[glitches],progressiveboomerang_stage2","[glitches],progressivebow","[glitches],progressiveslingshot","progressivebombs_stage2,progressiverocsfeather","progressiveboomerang_stage2,progressiverocsfeather","progressivebow,progressiverocsfeather","progressiverocsfeather,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1133,
+            "y": 2556,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "4F Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2","[glitches],progressivebombs_stage2","[glitches],progressiveboomerang_stage2","[glitches],progressivebow","[glitches],progressiveslingshot","progressivebombs_stage2,progressiverocsfeather","progressiveboomerang_stage2,progressiverocsfeather","progressivebow,progressiverocsfeather","progressiverocsfeather,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1276,
+            "y": 2187,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "4F Chest 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2","[glitches],progressivebombs_stage2","[glitches],progressiveboomerang_stage2","[glitches],progressivebow","[glitches],progressiveslingshot","progressivebombs_stage2,progressiverocsfeather","progressiveboomerang_stage2,progressiverocsfeather","progressivebow,progressiverocsfeather","progressiverocsfeather,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1358,
+            "y": 2184,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "6F Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 922,
+            "y": 1512,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "6F Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 922,
+            "y": 1545,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "6F Chest 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs,progressivebombs_stage2,towerofflames4fkey","[glitches],progressivebombs,progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebombs,progressivebow,towerofflames4fkey","[glitches],progressivebombs,progressiveslingshot,towerofflames4fkey","progressivebombs,progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressivebombs,progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebombs,progressivebow,progressiverocsfeather,towerofflames4fkey","progressivebombs,progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1084,
+            "y": 1530,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "7F Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 154,
+            "y": 954,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "7F Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 361,
+            "y": 857,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs,progressivebombs_stage2,towerofflames4fkey","[glitches],progressivebombs,progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebombs,progressivebow,towerofflames4fkey","[glitches],progressivebombs,progressiveslingshot,towerofflames4fkey","progressivebombs,progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressivebombs,progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebombs,progressivebow,progressiverocsfeather,towerofflames4fkey","progressivebombs,progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 762,
+            "y": 238,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

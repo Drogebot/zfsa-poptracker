@@ -1,0 +1,507 @@
+[
+  {
+    "name": "The Ice Temple",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "blueroyaljewel,greenroyaljewel,progressivelevel7ticket,progressivemaiden_stage6,purpleroyaljewel,redroyaljewel"
+    ],
+    "children": [
+      {
+        "name": "Entrance Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 2682,
+            "y": 4766,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Break Puzzle Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "theicetempleprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 3555,
+            "y": 3972,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "T Split Center Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey","progressivelamp,theicetempleprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 2791,
+            "y": 3256,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "T Split Left Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey","progressivelamp,theicetempleprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 2599,
+            "y": 3369,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "T Split Right Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey","progressivelamp,theicetempleprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 2889,
+            "y": 3368,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Void Zigzag Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey","progressivelamp,theicetempleprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 2407,
+            "y": 3551,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Ice Wall Room Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1127,
+            "y": 3631,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Ice Wall Room Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey_stage2","progressivelamp,theicetempleprogressivekey_stage2","progressivepegasusboots_stage2,theicetempleprogressivekey_stage2","progressiverocsfeather_stage2,theicetempleprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1127,
+            "y": 3759,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Slide Puzzle Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey_stage2","progressivelamp,theicetempleprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1623,
+            "y": 2447,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Bomb Slide Puzzle Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey_stage2","progressivelamp,theicetempleprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1624,
+            "y": 2591,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Block Puzzle Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey_stage2","progressivelamp,theicetempleprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 328,
+            "y": 2529,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Fairy Room Chest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,theicetempleprogressivekey_stage2","progressivelamp,theicetempleprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 490,
+            "y": 2814,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Somaria Void Room East Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressivefirerod_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3","progressivefirerod_stage2,progressivelamp,theicetempleprogressivekey_stage3","progressivelamp,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivelamp,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1640,
+            "y": 2047,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Somaria Void Room East Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressivefirerod_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3","progressivefirerod_stage2,progressivelamp,theicetempleprogressivekey_stage3","progressivelamp,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivelamp,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1896,
+            "y": 2112,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Somaria Void Room East Chest 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressivefirerod_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3","progressivefirerod_stage2,progressivelamp,theicetempleprogressivekey_stage3","progressivelamp,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivelamp,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1896,
+            "y": 2161,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Somaria Void Room East Chest 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressivefirerod_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivefirerod,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3","progressivefirerod_stage2,progressivelamp,theicetempleprogressivekey_stage3","progressivelamp,progressivepegasusboots_stage2,theicetempleprogressivekey_stage3","progressivelamp,progressiverocsfeather_stage2,theicetempleprogressivekey_stage3"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1640,
+            "y": 2223,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Fire Puzzle Chest 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod_stage2,theicetempleprogressivekey_stage3"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 888,
+            "y": 2014,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Fire Puzzle Chest 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod_stage2,theicetempleprogressivekey_stage3"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 904,
+            "y": 2015,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Stage Clear",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "blueroyaljewel,greenroyaljewel,progressivefirerod_stage2,purpleroyaljewel,redroyaljewel,theicetempleprogressivekey_stage4"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Ice Temple",
+            "x": 1281,
+            "y": 213,
+            "size": 60,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

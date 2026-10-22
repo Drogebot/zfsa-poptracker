@@ -1,0 +1,16 @@
+{
+    "name": "Four Swords Adventures AP Tracker",
+    "game_name": "The Legend of Zelda: Four Swords Adventures",
+    "package_version": "0.0.1",
+    "package_uid": "zfsa_ap",
+    "author": "Drogings",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.35.4"
+}

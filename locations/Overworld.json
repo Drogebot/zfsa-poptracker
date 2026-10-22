@@ -1,0 +1,2357 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Cave of No Return",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fire Wall Room Top Left Chest",
+                        "ref": "Cave of No Return/Fire Wall Room Top Left Chest/"
+                    },
+                    {
+                        "name": "Fire Wall Room Center Chest",
+                        "ref": "Cave of No Return/Fire Wall Room Center Chest/"
+                    },
+                    {
+                        "name": "Large Block Push Room Top Chest",
+                        "ref": "Cave of No Return/Large Block Push Room Top Chest/"
+                    },
+                    {
+                        "name": "Large Block Push Room Bottom Chest",
+                        "ref": "Cave of No Return/Large Block Push Room Bottom Chest/"
+                    },
+                    {
+                        "name": "Color Block Push Room Top Chest",
+                        "ref": "Cave of No Return/Color Block Push Room Top Chest/"
+                    },
+                    {
+                        "name": "Color Block Push Room Bottom Chest",
+                        "ref": "Cave of No Return/Color Block Push Room Bottom Chest/"
+                    },
+                    {
+                        "name": "Color Block Push Room Top Right Chest",
+                        "ref": "Cave of No Return/Color Block Push Room Top Right Chest/"
+                    },
+                    {
+                        "name": "Trap Room Top Chest",
+                        "ref": "Cave of No Return/Trap Room Top Chest/"
+                    },
+                    {
+                        "name": "Trap Room Bottom Chest",
+                        "ref": "Cave of No Return/Trap Room Bottom Chest/"
+                    },
+                    {
+                        "name": "Fire Trap Room Chest",
+                        "ref": "Cave of No Return/Fire Trap Room Chest/"
+                    },
+                    {
+                        "name": "Ghost Room Chest",
+                        "ref": "Cave of No Return/Ghost Room Chest/"
+                    },
+                    {
+                        "name": "Choice Room Chest 1",
+                        "ref": "Cave of No Return/Choice Room Chest 1/"
+                    },
+                    {
+                        "name": "Choice Room Chest 2",
+                        "ref": "Cave of No Return/Choice Room Chest 2/"
+                    },
+                    {
+                        "name": "Choice Room Chest 3",
+                        "ref": "Cave of No Return/Choice Room Chest 3/"
+                    },
+                    {
+                        "name": "Choice Room Chest 4",
+                        "ref": "Cave of No Return/Choice Room Chest 4/"
+                    },
+                    {
+                        "name": "Choice Room Pull Chest",
+                        "ref": "Cave of No Return/Choice Room Pull Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Cave of No Return/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1807,
+                        "y": 355,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 572,
+                        "y": 306,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Death Mountain Foothills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Start Chest",
+                        "ref": "Death Mountain Foothills/Start Chest/"
+                    },
+                    {
+                        "name": "Past Bridge Chest 1",
+                        "ref": "Death Mountain Foothills/Past Bridge Chest 1/"
+                    },
+                    {
+                        "name": "Past Bridge Chest 2",
+                        "ref": "Death Mountain Foothills/Past Bridge Chest 2/"
+                    },
+                    {
+                        "name": "Mountain Side Chest 1",
+                        "ref": "Death Mountain Foothills/Mountain Side Chest 1/"
+                    },
+                    {
+                        "name": "Mountain Side Chest 2",
+                        "ref": "Death Mountain Foothills/Mountain Side Chest 2/"
+                    },
+                    {
+                        "name": "Maze Chest",
+                        "ref": "Death Mountain Foothills/Maze Chest/"
+                    },
+                    {
+                        "name": "Mountain Side Bomb Chest",
+                        "ref": "Death Mountain Foothills/Mountain Side Bomb Chest/"
+                    },
+                    {
+                        "name": "Mountain Path Lower Chest",
+                        "ref": "Death Mountain Foothills/Mountain Path Lower Chest/"
+                    },
+                    {
+                        "name": "Hebras Hill Chest 1",
+                        "ref": "Death Mountain Foothills/Hebras Hill Chest 1/"
+                    },
+                    {
+                        "name": "Hebras Hill Chest 2",
+                        "ref": "Death Mountain Foothills/Hebras Hill Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Death Mountain Foothills/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 244,
+                        "y": 2239,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 283,
+                        "y": 242,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Desert Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Laser Room Right Chest",
+                        "ref": "Desert Temple/Laser Room Right Chest/"
+                    },
+                    {
+                        "name": "Laser Room Left Chest",
+                        "ref": "Desert Temple/Laser Room Left Chest/"
+                    },
+                    {
+                        "name": "Laser Room Center Chest",
+                        "ref": "Desert Temple/Laser Room Center Chest/"
+                    },
+                    {
+                        "name": "Eyegore Room Right Chest",
+                        "ref": "Desert Temple/Eyegore Room Right Chest/"
+                    },
+                    {
+                        "name": "Eyegore Room Left Chest",
+                        "ref": "Desert Temple/Eyegore Room Left Chest/"
+                    },
+                    {
+                        "name": "North Switch Room Chest 1",
+                        "ref": "Desert Temple/North Switch Room Chest 1/"
+                    },
+                    {
+                        "name": "North Switch Room Chest 2",
+                        "ref": "Desert Temple/North Switch Room Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Desert Temple/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 49,
+                        "y": 1885,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 111,
+                        "y": 473,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Desert of Doubt",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gerudo Town Center House Chest 1",
+                        "ref": "Desert of Doubt/Gerudo Town Center House Chest 1/"
+                    },
+                    {
+                        "name": "Gerudo Town Center House Chest 2",
+                        "ref": "Desert of Doubt/Gerudo Town Center House Chest 2/"
+                    },
+                    {
+                        "name": "Gerudo Town Center House Chest 3",
+                        "ref": "Desert of Doubt/Gerudo Town Center House Chest 3/"
+                    },
+                    {
+                        "name": "Gerudo Town Left House Chest",
+                        "ref": "Desert of Doubt/Gerudo Town Left House Chest/"
+                    },
+                    {
+                        "name": "Gerudo Town North Chest",
+                        "ref": "Desert of Doubt/Gerudo Town North Chest/"
+                    },
+                    {
+                        "name": "Gerudo Town North East Chest 1",
+                        "ref": "Desert of Doubt/Gerudo Town North East Chest 1/"
+                    },
+                    {
+                        "name": "Gerudo Town North East Chest 2",
+                        "ref": "Desert of Doubt/Gerudo Town North East Chest 2/"
+                    },
+                    {
+                        "name": "Gerudo Town North East Chest 3",
+                        "ref": "Desert of Doubt/Gerudo Town North East Chest 3/"
+                    },
+                    {
+                        "name": "Zuna Village South West Sand Chest 1",
+                        "ref": "Desert of Doubt/Zuna Village South West Sand Chest 1/"
+                    },
+                    {
+                        "name": "Zuna Village South West Sand Chest 2",
+                        "ref": "Desert of Doubt/Zuna Village South West Sand Chest 2/"
+                    },
+                    {
+                        "name": "Zuna Village South West Cave Chest 1",
+                        "ref": "Desert of Doubt/Zuna Village South West Cave Chest 1/"
+                    },
+                    {
+                        "name": "Zuna Village South West Cave Chest 2",
+                        "ref": "Desert of Doubt/Zuna Village South West Cave Chest 2/"
+                    },
+                    {
+                        "name": "Zuna Village South West Cave Chest 3",
+                        "ref": "Desert of Doubt/Zuna Village South West Cave Chest 3/"
+                    },
+                    {
+                        "name": "Zuna Village South West Cave Chest 4",
+                        "ref": "Desert of Doubt/Zuna Village South West Cave Chest 4/"
+                    },
+                    {
+                        "name": "Zuna Village South West Cave Chest 5",
+                        "ref": "Desert of Doubt/Zuna Village South West Cave Chest 5/"
+                    },
+                    {
+                        "name": "Zuna Village South Chest",
+                        "ref": "Desert of Doubt/Zuna Village South Chest/"
+                    },
+                    {
+                        "name": "Zuna Village Bottom Right House Chest 1",
+                        "ref": "Desert of Doubt/Zuna Village Bottom Right House Chest 1/"
+                    },
+                    {
+                        "name": "Zuna Village Bottom Right House Chest 2",
+                        "ref": "Desert of Doubt/Zuna Village Bottom Right House Chest 2/"
+                    },
+                    {
+                        "name": "Zuna Village Top House Chest 1",
+                        "ref": "Desert of Doubt/Zuna Village Top House Chest 1/"
+                    },
+                    {
+                        "name": "Zuna Village Top House Chest 2",
+                        "ref": "Desert of Doubt/Zuna Village Top House Chest 2/"
+                    },
+                    {
+                        "name": "Desert Trap Chest 1",
+                        "ref": "Desert of Doubt/Desert Trap Chest 1/"
+                    },
+                    {
+                        "name": "Desert Trap Chest 2",
+                        "ref": "Desert of Doubt/Desert Trap Chest 2/"
+                    },
+                    {
+                        "name": "Desert Trap Chest 3",
+                        "ref": "Desert of Doubt/Desert Trap Chest 3/"
+                    },
+                    {
+                        "name": "Desert Trap Cave Chest",
+                        "ref": "Desert of Doubt/Desert Trap Cave Chest/"
+                    },
+                    {
+                        "name": "Desert Crater Sand Chest",
+                        "ref": "Desert of Doubt/Desert Crater Sand Chest/"
+                    },
+                    {
+                        "name": "Desert Crater Hole Chest 1",
+                        "ref": "Desert of Doubt/Desert Crater Hole Chest 1/"
+                    },
+                    {
+                        "name": "Desert Crater Hole Chest 2",
+                        "ref": "Desert of Doubt/Desert Crater Hole Chest 2/"
+                    },
+                    {
+                        "name": "Desert Crater Bomb Cave Chest 1",
+                        "ref": "Desert of Doubt/Desert Crater Bomb Cave Chest 1/"
+                    },
+                    {
+                        "name": "Desert Crater Bomb Cave Chest 2",
+                        "ref": "Desert of Doubt/Desert Crater Bomb Cave Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Desert of Doubt/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 807,
+                        "y": 2459,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 93,
+                        "y": 540,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Eastern Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Entrance Chest 1",
+                        "ref": "Eastern Temple/Entrance Chest 1/"
+                    },
+                    {
+                        "name": "Entrance Chest 2",
+                        "ref": "Eastern Temple/Entrance Chest 2/"
+                    },
+                    {
+                        "name": "East Room Right Chest",
+                        "ref": "Eastern Temple/East Room Right Chest/"
+                    },
+                    {
+                        "name": "East Room Top Chest 1",
+                        "ref": "Eastern Temple/East Room Top Chest 1/"
+                    },
+                    {
+                        "name": "East Room Top Chest 2",
+                        "ref": "Eastern Temple/East Room Top Chest 2/"
+                    },
+                    {
+                        "name": "East Room Bottom Chest 1",
+                        "ref": "Eastern Temple/East Room Bottom Chest 1/"
+                    },
+                    {
+                        "name": "East Room Bottom Chest 2",
+                        "ref": "Eastern Temple/East Room Bottom Chest 2/"
+                    },
+                    {
+                        "name": "East Room Bottom Chest 3",
+                        "ref": "Eastern Temple/East Room Bottom Chest 3/"
+                    },
+                    {
+                        "name": "South East Room Chest",
+                        "ref": "Eastern Temple/South East Room Chest/"
+                    },
+                    {
+                        "name": "South Room Chest 1",
+                        "ref": "Eastern Temple/South Room Chest 1/"
+                    },
+                    {
+                        "name": "South Room Chest 2",
+                        "ref": "Eastern Temple/South Room Chest 2/"
+                    },
+                    {
+                        "name": "West Room Chest 1",
+                        "ref": "Eastern Temple/West Room Chest 1/"
+                    },
+                    {
+                        "name": "West Room Chest 2",
+                        "ref": "Eastern Temple/West Room Chest 2/"
+                    },
+                    {
+                        "name": "West Room Lower Chest 1",
+                        "ref": "Eastern Temple/West Room Lower Chest 1/"
+                    },
+                    {
+                        "name": "West Room Lower Chest 2",
+                        "ref": "Eastern Temple/West Room Lower Chest 2/"
+                    },
+                    {
+                        "name": "South West Room Chest",
+                        "ref": "Eastern Temple/South West Room Chest/"
+                    },
+                    {
+                        "name": "North Room Chest 1",
+                        "ref": "Eastern Temple/North Room Chest 1/"
+                    },
+                    {
+                        "name": "North Room Chest 2",
+                        "ref": "Eastern Temple/North Room Chest 2/"
+                    },
+                    {
+                        "name": "Battle Room Right Chest",
+                        "ref": "Eastern Temple/Battle Room Right Chest/"
+                    },
+                    {
+                        "name": "Battle Room Left Chest",
+                        "ref": "Eastern Temple/Battle Room Left Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Eastern Temple/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1892,
+                        "y": 1503,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 669,
+                        "y": 442,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Frozen Hyrule",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "House South Chest",
+                        "ref": "Frozen Hyrule/House South Chest/"
+                    },
+                    {
+                        "name": "East Wing Zigzag Chest",
+                        "ref": "Frozen Hyrule/East Wing Zigzag Chest/"
+                    },
+                    {
+                        "name": "House West Chest",
+                        "ref": "Frozen Hyrule/House West Chest/"
+                    },
+                    {
+                        "name": "House Chest",
+                        "ref": "Frozen Hyrule/House Chest/"
+                    },
+                    {
+                        "name": "House North Chest",
+                        "ref": "Frozen Hyrule/House North Chest/"
+                    },
+                    {
+                        "name": "West Frozen Lake Chest 1",
+                        "ref": "Frozen Hyrule/West Frozen Lake Chest 1/"
+                    },
+                    {
+                        "name": "West Frozen Lake Chest 2",
+                        "ref": "Frozen Hyrule/West Frozen Lake Chest 2/"
+                    },
+                    {
+                        "name": "West Wing Chest",
+                        "ref": "Frozen Hyrule/West Wing Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Frozen Hyrule/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1103,
+                        "y": 1407,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 362,
+                        "y": 514,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hyrule Castle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Castle Gate Upper Chest",
+                        "ref": "Hyrule Castle/Castle Gate Upper Chest/"
+                    },
+                    {
+                        "name": "Castle Gate Lower Chest",
+                        "ref": "Hyrule Castle/Castle Gate Lower Chest/"
+                    },
+                    {
+                        "name": "Castle Courtyard Chest 1",
+                        "ref": "Hyrule Castle/Castle Courtyard Chest 1/"
+                    },
+                    {
+                        "name": "Castle Courtyard Chest 2",
+                        "ref": "Hyrule Castle/Castle Courtyard Chest 2/"
+                    },
+                    {
+                        "name": "Castle Wall Left Chest 1",
+                        "ref": "Hyrule Castle/Castle Wall Left Chest 1/"
+                    },
+                    {
+                        "name": "Castle Wall Left Chest 2",
+                        "ref": "Hyrule Castle/Castle Wall Left Chest 2/"
+                    },
+                    {
+                        "name": "Castle Wall Right Yard Chest 1",
+                        "ref": "Hyrule Castle/Castle Wall Right Yard Chest 1/"
+                    },
+                    {
+                        "name": "Castle Wall Right Yard Chest 2",
+                        "ref": "Hyrule Castle/Castle Wall Right Yard Chest 2/"
+                    },
+                    {
+                        "name": "Castle Wall Right Inner Chest",
+                        "ref": "Hyrule Castle/Castle Wall Right Inner Chest/"
+                    },
+                    {
+                        "name": "Throne Wall Left Chest",
+                        "ref": "Hyrule Castle/Throne Wall Left Chest/"
+                    },
+                    {
+                        "name": "Throne Wall Right Chest",
+                        "ref": "Hyrule Castle/Throne Wall Right Chest/"
+                    },
+                    {
+                        "name": "Throne Room Left Chest",
+                        "ref": "Hyrule Castle/Throne Room Left Chest/"
+                    },
+                    {
+                        "name": "Throne Room Right Chest",
+                        "ref": "Hyrule Castle/Throne Room Right Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Hyrule Castle/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1627,
+                        "y": 2009,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 445,
+                        "y": 326,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infiltration of Hyrule Castle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Outside Jail Chest",
+                        "ref": "Infiltration of Hyrule Castle/Outside Jail Chest/"
+                    },
+                    {
+                        "name": "Wall East Chest 1",
+                        "ref": "Infiltration of Hyrule Castle/Wall East Chest 1/"
+                    },
+                    {
+                        "name": "Wall East Chest 2",
+                        "ref": "Infiltration of Hyrule Castle/Wall East Chest 2/"
+                    },
+                    {
+                        "name": "Wall West Chest 1",
+                        "ref": "Infiltration of Hyrule Castle/Wall West Chest 1/"
+                    },
+                    {
+                        "name": "Wall West Chest 2",
+                        "ref": "Infiltration of Hyrule Castle/Wall West Chest 2/"
+                    },
+                    {
+                        "name": "Basement Stairs Room Chest",
+                        "ref": "Infiltration of Hyrule Castle/Basement Stairs Room Chest/"
+                    },
+                    {
+                        "name": "Basement Stairs Room Moon Gate Chest",
+                        "ref": "Infiltration of Hyrule Castle/Basement Stairs Room Moon Gate Chest/"
+                    },
+                    {
+                        "name": "Eye Void Room Chest 1",
+                        "ref": "Infiltration of Hyrule Castle/Eye Void Room Chest 1/"
+                    },
+                    {
+                        "name": "Eye Void Room Chest 2",
+                        "ref": "Infiltration of Hyrule Castle/Eye Void Room Chest 2/"
+                    },
+                    {
+                        "name": "Eye Void Room Chest 3",
+                        "ref": "Infiltration of Hyrule Castle/Eye Void Room Chest 3/"
+                    },
+                    {
+                        "name": "Yard Jail Chest",
+                        "ref": "Infiltration of Hyrule Castle/Yard Jail Chest/"
+                    },
+                    {
+                        "name": "Yard Chest 1",
+                        "ref": "Infiltration of Hyrule Castle/Yard Chest 1/"
+                    },
+                    {
+                        "name": "Yard Chest 2",
+                        "ref": "Infiltration of Hyrule Castle/Yard Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Infiltration of Hyrule Castle/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 855,
+                        "y": 2097,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 406,
+                        "y": 352,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Kakariko Village",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "South East House Chest 1",
+                        "ref": "Kakariko Village/South East House Chest 1/"
+                    },
+                    {
+                        "name": "South East House Chest 2",
+                        "ref": "Kakariko Village/South East House Chest 2/"
+                    },
+                    {
+                        "name": "South East House Chest 3",
+                        "ref": "Kakariko Village/South East House Chest 3/"
+                    },
+                    {
+                        "name": "South West Left House Chest",
+                        "ref": "Kakariko Village/South West Left House Chest/"
+                    },
+                    {
+                        "name": "South West Right Yard Chest 1",
+                        "ref": "Kakariko Village/South West Right Yard Chest 1/"
+                    },
+                    {
+                        "name": "South West Right Yard Chest 2",
+                        "ref": "Kakariko Village/South West Right Yard Chest 2/"
+                    },
+                    {
+                        "name": "South West Left Hole Chest",
+                        "ref": "Kakariko Village/South West Left Hole Chest/"
+                    },
+                    {
+                        "name": "North West Chest",
+                        "ref": "Kakariko Village/North West Chest/"
+                    },
+                    {
+                        "name": "North East Chest 1",
+                        "ref": "Kakariko Village/North East Chest 1/"
+                    },
+                    {
+                        "name": "North East Chest 2",
+                        "ref": "Kakariko Village/North East Chest 2/"
+                    },
+                    {
+                        "name": "North East Chest 3",
+                        "ref": "Kakariko Village/North East Chest 3/"
+                    },
+                    {
+                        "name": "North East Chest 4",
+                        "ref": "Kakariko Village/North East Chest 4/"
+                    },
+                    {
+                        "name": "North East House Chest 1",
+                        "ref": "Kakariko Village/North East House Chest 1/"
+                    },
+                    {
+                        "name": "North East House Chest 2",
+                        "ref": "Kakariko Village/North East House Chest 2/"
+                    },
+                    {
+                        "name": "Maze Chest",
+                        "ref": "Kakariko Village/Maze Chest/"
+                    },
+                    {
+                        "name": "Lake Chest",
+                        "ref": "Kakariko Village/Lake Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Kakariko Village/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1164,
+                        "y": 775,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 178,
+                        "y": 254,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lake Hylia",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "River Passage Chest",
+                        "ref": "Lake Hylia/River Passage Chest/"
+                    },
+                    {
+                        "name": "Waterfall Climb Chest",
+                        "ref": "Lake Hylia/Waterfall Climb Chest/"
+                    },
+                    {
+                        "name": "Lake Cave Chest 1",
+                        "ref": "Lake Hylia/Lake Cave Chest 1/"
+                    },
+                    {
+                        "name": "Lake Cave Chest 2",
+                        "ref": "Lake Hylia/Lake Cave Chest 2/"
+                    },
+                    {
+                        "name": "Waterfall Bottom Chest 1",
+                        "ref": "Lake Hylia/Waterfall Bottom Chest 1/"
+                    },
+                    {
+                        "name": "Waterfall Bottom Chest 2",
+                        "ref": "Lake Hylia/Waterfall Bottom Chest 2/"
+                    },
+                    {
+                        "name": "Waterfall Bottom River Pasage Chest",
+                        "ref": "Lake Hylia/Waterfall Bottom River Pasage Chest/"
+                    },
+                    {
+                        "name": "Bridge Chest 1",
+                        "ref": "Lake Hylia/Bridge Chest 1/"
+                    },
+                    {
+                        "name": "Bridge Chest 2",
+                        "ref": "Lake Hylia/Bridge Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Lake Hylia/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1483,
+                        "y": 1806,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 648,
+                        "y": 263,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lost Woods",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "North Woods Exit Passage Left Hole Chest",
+                        "ref": "Lost Woods/North Woods Exit Passage Left Hole Chest/"
+                    },
+                    {
+                        "name": "North Woods Exit Chest",
+                        "ref": "Lost Woods/North Woods Exit Chest/"
+                    },
+                    {
+                        "name": "East Woods Moon Gate Chest",
+                        "ref": "Lost Woods/East Woods Moon Gate Chest/"
+                    },
+                    {
+                        "name": "East Woods Switches Chest 1",
+                        "ref": "Lost Woods/East Woods Switches Chest 1/"
+                    },
+                    {
+                        "name": "East Woods Switches Chest 2",
+                        "ref": "Lost Woods/East Woods Switches Chest 2/"
+                    },
+                    {
+                        "name": "North Woods Storage Right Hole Chest",
+                        "ref": "Lost Woods/North Woods Storage Right Hole Chest/"
+                    },
+                    {
+                        "name": "North Woods Storage Left Hole Chest 1",
+                        "ref": "Lost Woods/North Woods Storage Left Hole Chest 1/"
+                    },
+                    {
+                        "name": "North Woods Storage Left Hole Chest 2",
+                        "ref": "Lost Woods/North Woods Storage Left Hole Chest 2/"
+                    },
+                    {
+                        "name": "North Woods Storage Left Hole Chest 3",
+                        "ref": "Lost Woods/North Woods Storage Left Hole Chest 3/"
+                    },
+                    {
+                        "name": "West Woods Switches Chest",
+                        "ref": "Lost Woods/West Woods Switches Chest/"
+                    },
+                    {
+                        "name": "Central Woods Kill Chest",
+                        "ref": "Lost Woods/Central Woods Kill Chest/"
+                    },
+                    {
+                        "name": "Central Woods Right Chest",
+                        "ref": "Lost Woods/Central Woods Right Chest/"
+                    },
+                    {
+                        "name": "Central Woods Left Chest",
+                        "ref": "Lost Woods/Central Woods Left Chest/"
+                    },
+                    {
+                        "name": "West Woods Battle 2 Chest",
+                        "ref": "Lost Woods/West Woods Battle 2 Chest/"
+                    },
+                    {
+                        "name": "South Woods Pot Storage Chest 1",
+                        "ref": "Lost Woods/South Woods Pot Storage Chest 1/"
+                    },
+                    {
+                        "name": "South Woods Pot Storage Chest 2",
+                        "ref": "Lost Woods/South Woods Pot Storage Chest 2/"
+                    },
+                    {
+                        "name": "South Woods Pot Storage Chest 3",
+                        "ref": "Lost Woods/South Woods Pot Storage Chest 3/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Lost Woods/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 585,
+                        "y": 1920,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 135,
+                        "y": 301,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Palace of Winds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Entrance Right RNG Chest 1-1",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 1-1/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 1-2",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 1-2/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 1-3",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 1-3/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 1-4",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 1-4/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 2-1",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 2-1/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 2-2",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 2-2/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 2-3",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 2-3/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 2-4",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 2-4/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 3-1",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 3-1/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 3-2",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 3-2/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 3-3",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 3-3/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 3-4",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 3-4/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 4-1",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 4-1/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 4-2",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 4-2/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 4-3",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 4-3/"
+                    },
+                    {
+                        "name": "Entrance Right RNG Chest 4-4",
+                        "ref": "Palace of Winds/Entrance Right RNG Chest 4-4/"
+                    },
+                    {
+                        "name": "2F East Chest",
+                        "ref": "Palace of Winds/2F East Chest/"
+                    },
+                    {
+                        "name": "2F South East Chest",
+                        "ref": "Palace of Winds/2F South East Chest/"
+                    },
+                    {
+                        "name": "2F South East Inside Top Chest",
+                        "ref": "Palace of Winds/2F South East Inside Top Chest/"
+                    },
+                    {
+                        "name": "2F South East Inside Bottom Chest",
+                        "ref": "Palace of Winds/2F South East Inside Bottom Chest/"
+                    },
+                    {
+                        "name": "2F North East Center Chest 1",
+                        "ref": "Palace of Winds/2F North East Center Chest 1/"
+                    },
+                    {
+                        "name": "2F North East Center Chest 2",
+                        "ref": "Palace of Winds/2F North East Center Chest 2/"
+                    },
+                    {
+                        "name": "2F North East Left Chest 1",
+                        "ref": "Palace of Winds/2F North East Left Chest 1/"
+                    },
+                    {
+                        "name": "2F North East Left Chest 2",
+                        "ref": "Palace of Winds/2F North East Left Chest 2/"
+                    },
+                    {
+                        "name": "2F North East Right Chest 1",
+                        "ref": "Palace of Winds/2F North East Right Chest 1/"
+                    },
+                    {
+                        "name": "2F North East Right Chest 2",
+                        "ref": "Palace of Winds/2F North East Right Chest 2/"
+                    },
+                    {
+                        "name": "2F North East Underground 1 Chest 1",
+                        "ref": "Palace of Winds/2F North East Underground 1 Chest 1/"
+                    },
+                    {
+                        "name": "2F North East Underground 1 Chest 2",
+                        "ref": "Palace of Winds/2F North East Underground 1 Chest 2/"
+                    },
+                    {
+                        "name": "2F North East Underground 3 Chest",
+                        "ref": "Palace of Winds/2F North East Underground 3 Chest/"
+                    },
+                    {
+                        "name": "2F Far West Chest 1",
+                        "ref": "Palace of Winds/2F Far West Chest 1/"
+                    },
+                    {
+                        "name": "2F Far West Chest 2",
+                        "ref": "Palace of Winds/2F Far West Chest 2/"
+                    },
+                    {
+                        "name": "2F North West Top Left Chest",
+                        "ref": "Palace of Winds/2F North West Top Left Chest/"
+                    },
+                    {
+                        "name": "2F North West Top Right Chest",
+                        "ref": "Palace of Winds/2F North West Top Right Chest/"
+                    },
+                    {
+                        "name": "2F North West Center Chest 1",
+                        "ref": "Palace of Winds/2F North West Center Chest 1/"
+                    },
+                    {
+                        "name": "2F North West Center Chest 2",
+                        "ref": "Palace of Winds/2F North West Center Chest 2/"
+                    },
+                    {
+                        "name": "2F Central Top Left Chest",
+                        "ref": "Palace of Winds/2F Central Top Left Chest/"
+                    },
+                    {
+                        "name": "2F Central Top Right Chest",
+                        "ref": "Palace of Winds/2F Central Top Right Chest/"
+                    },
+                    {
+                        "name": "2F Central Bottom Left Chest",
+                        "ref": "Palace of Winds/2F Central Bottom Left Chest/"
+                    },
+                    {
+                        "name": "2F Central Bottom Right Chest",
+                        "ref": "Palace of Winds/2F Central Bottom Right Chest/"
+                    },
+                    {
+                        "name": "2F North Flip Hole Chest",
+                        "ref": "Palace of Winds/2F North Flip Hole Chest/"
+                    },
+                    {
+                        "name": "2F North Flip Flip Chest 1",
+                        "ref": "Palace of Winds/2F North Flip Flip Chest 1/"
+                    },
+                    {
+                        "name": "2F North Flip Flip Chest 2",
+                        "ref": "Palace of Winds/2F North Flip Flip Chest 2/"
+                    },
+                    {
+                        "name": "2F North Void Chest",
+                        "ref": "Palace of Winds/2F North Void Chest/"
+                    },
+                    {
+                        "name": "Descent B3F Chest",
+                        "ref": "Palace of Winds/Descent B3F Chest/"
+                    },
+                    {
+                        "name": "Descent B4F Left Chest",
+                        "ref": "Palace of Winds/Descent B4F Left Chest/"
+                    },
+                    {
+                        "name": "Descent B4F Right Chest",
+                        "ref": "Palace of Winds/Descent B4F Right Chest/"
+                    },
+                    {
+                        "name": "Descent B5F Left Chest",
+                        "ref": "Palace of Winds/Descent B5F Left Chest/"
+                    },
+                    {
+                        "name": "Descent B5F Right Chest 1",
+                        "ref": "Palace of Winds/Descent B5F Right Chest 1/"
+                    },
+                    {
+                        "name": "Descent B5F Right Chest 2",
+                        "ref": "Palace of Winds/Descent B5F Right Chest 2/"
+                    },
+                    {
+                        "name": "Descent B6F Chest",
+                        "ref": "Palace of Winds/Descent B6F Chest/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1691,
+                        "y": 2001,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 770,
+                        "y": 25,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pyramid",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "South Corridor Chest 1",
+                        "ref": "Pyramid/South Corridor Chest 1/"
+                    },
+                    {
+                        "name": "South Corridor Chest 2",
+                        "ref": "Pyramid/South Corridor Chest 2/"
+                    },
+                    {
+                        "name": "South Corridor Hidden Chest",
+                        "ref": "Pyramid/South Corridor Hidden Chest/"
+                    },
+                    {
+                        "name": "Small Rooms Top Chest",
+                        "ref": "Pyramid/Small Rooms Top Chest/"
+                    },
+                    {
+                        "name": "Small Rooms Bottom Chest",
+                        "ref": "Pyramid/Small Rooms Bottom Chest/"
+                    },
+                    {
+                        "name": "North East Chest 1",
+                        "ref": "Pyramid/North East Chest 1/"
+                    },
+                    {
+                        "name": "North East Chest 2",
+                        "ref": "Pyramid/North East Chest 2/"
+                    },
+                    {
+                        "name": "Center Moon Gate Center Chest",
+                        "ref": "Pyramid/Center Moon Gate Center Chest/"
+                    },
+                    {
+                        "name": "Center Moon Gate Left Chest",
+                        "ref": "Pyramid/Center Moon Gate Left Chest/"
+                    },
+                    {
+                        "name": "Center Moon Gate Right Chest",
+                        "ref": "Pyramid/Center Moon Gate Right Chest/"
+                    },
+                    {
+                        "name": "Center Room Chest 1",
+                        "ref": "Pyramid/Center Room Chest 1/"
+                    },
+                    {
+                        "name": "Center Room Chest 2",
+                        "ref": "Pyramid/Center Room Chest 2/"
+                    },
+                    {
+                        "name": "Center Room Chest 3",
+                        "ref": "Pyramid/Center Room Chest 3/"
+                    },
+                    {
+                        "name": "Center Room Chest 4",
+                        "ref": "Pyramid/Center Room Chest 4/"
+                    },
+                    {
+                        "name": "Center Room Chest 5",
+                        "ref": "Pyramid/Center Room Chest 5/"
+                    },
+                    {
+                        "name": "Center Room Chest 6",
+                        "ref": "Pyramid/Center Room Chest 6/"
+                    },
+                    {
+                        "name": "Center Room Chest 7",
+                        "ref": "Pyramid/Center Room Chest 7/"
+                    },
+                    {
+                        "name": "Center Room Chest 8",
+                        "ref": "Pyramid/Center Room Chest 8/"
+                    },
+                    {
+                        "name": "Center Room Bomb Wall Chest",
+                        "ref": "Pyramid/Center Room Bomb Wall Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Pyramid/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1417,
+                        "y": 152,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 209,
+                        "y": 454,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Realm of the Heavens",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "South West Side Chest 1",
+                        "ref": "Realm of the Heavens/South West Side Chest 1/"
+                    },
+                    {
+                        "name": "South West Side Chest 2",
+                        "ref": "Realm of the Heavens/South West Side Chest 2/"
+                    },
+                    {
+                        "name": "North West Side Chest",
+                        "ref": "Realm of the Heavens/North West Side Chest/"
+                    },
+                    {
+                        "name": "North West Side Top Left Chest 1",
+                        "ref": "Realm of the Heavens/North West Side Top Left Chest 1/"
+                    },
+                    {
+                        "name": "North West Side Top Left Chest 2",
+                        "ref": "Realm of the Heavens/North West Side Top Left Chest 2/"
+                    },
+                    {
+                        "name": "West Moving Clouds Chest",
+                        "ref": "Realm of the Heavens/West Moving Clouds Chest/"
+                    },
+                    {
+                        "name": "Rainbow Bridges Chest",
+                        "ref": "Realm of the Heavens/Rainbow Bridges Chest/"
+                    },
+                    {
+                        "name": "Boss Arena Chest 1",
+                        "ref": "Realm of the Heavens/Boss Arena Chest 1/"
+                    },
+                    {
+                        "name": "Boss Arena Chest 2",
+                        "ref": "Realm of the Heavens/Boss Arena Chest 2/"
+                    },
+                    {
+                        "name": "Boss Arena Chest 3",
+                        "ref": "Realm of the Heavens/Boss Arena Chest 3/"
+                    },
+                    {
+                        "name": "Boss Arena Chest 4",
+                        "ref": "Realm of the Heavens/Boss Arena Chest 4/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Realm of the Heavens/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2324,
+                        "y": 867,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 622,
+                        "y": 73,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Temple of Darkness",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Entrance Chest 1",
+                        "ref": "Temple of Darkness/Entrance Chest 1/"
+                    },
+                    {
+                        "name": "Entrance Chest 2",
+                        "ref": "Temple of Darkness/Entrance Chest 2/"
+                    },
+                    {
+                        "name": "Entrance Chest 3",
+                        "ref": "Temple of Darkness/Entrance Chest 3/"
+                    },
+                    {
+                        "name": "Top Stairs Right Chest",
+                        "ref": "Temple of Darkness/Top Stairs Right Chest/"
+                    },
+                    {
+                        "name": "Top Stairs Center Chest",
+                        "ref": "Temple of Darkness/Top Stairs Center Chest/"
+                    },
+                    {
+                        "name": "Top Stairs Top Chest 1",
+                        "ref": "Temple of Darkness/Top Stairs Top Chest 1/"
+                    },
+                    {
+                        "name": "Top Stairs Top Chest 2",
+                        "ref": "Temple of Darkness/Top Stairs Top Chest 2/"
+                    },
+                    {
+                        "name": "Top Stairs Hole Chest",
+                        "ref": "Temple of Darkness/Top Stairs Hole Chest/"
+                    },
+                    {
+                        "name": "Spike Room Right Chest",
+                        "ref": "Temple of Darkness/Spike Room Right Chest/"
+                    },
+                    {
+                        "name": "Spike Room Left Center Chest 1",
+                        "ref": "Temple of Darkness/Spike Room Left Center Chest 1/"
+                    },
+                    {
+                        "name": "Spike Room Left Center Chest 2",
+                        "ref": "Temple of Darkness/Spike Room Left Center Chest 2/"
+                    },
+                    {
+                        "name": "Spike Room Left Left Chest 1",
+                        "ref": "Temple of Darkness/Spike Room Left Left Chest 1/"
+                    },
+                    {
+                        "name": "Spike Room Left Left Chest 2",
+                        "ref": "Temple of Darkness/Spike Room Left Left Chest 2/"
+                    },
+                    {
+                        "name": "Spike Room Left Left Chest 3",
+                        "ref": "Temple of Darkness/Spike Room Left Left Chest 3/"
+                    },
+                    {
+                        "name": "Spike Room Left Left Chest 4",
+                        "ref": "Temple of Darkness/Spike Room Left Left Chest 4/"
+                    },
+                    {
+                        "name": "Void I Room Chest",
+                        "ref": "Temple of Darkness/Void I Room Chest/"
+                    },
+                    {
+                        "name": "Void I Room Moon Gate Chest",
+                        "ref": "Temple of Darkness/Void I Room Moon Gate Chest/"
+                    },
+                    {
+                        "name": "Void Intersection Chest",
+                        "ref": "Temple of Darkness/Void Intersection Chest/"
+                    },
+                    {
+                        "name": "B1 Spike Room Chest",
+                        "ref": "Temple of Darkness/B1 Spike Room Chest/"
+                    },
+                    {
+                        "name": "Void Room Left Chest 1",
+                        "ref": "Temple of Darkness/Void Room Left Chest 1/"
+                    },
+                    {
+                        "name": "Void Room Left Chest 2",
+                        "ref": "Temple of Darkness/Void Room Left Chest 2/"
+                    },
+                    {
+                        "name": "Dark Room Chest 1",
+                        "ref": "Temple of Darkness/Dark Room Chest 1/"
+                    },
+                    {
+                        "name": "Dark Room Chest 2",
+                        "ref": "Temple of Darkness/Dark Room Chest 2/"
+                    },
+                    {
+                        "name": "Dark Room Chest 3",
+                        "ref": "Temple of Darkness/Dark Room Chest 3/"
+                    },
+                    {
+                        "name": "Color Maze Room Top Chest 1",
+                        "ref": "Temple of Darkness/Color Maze Room Top Chest 1/"
+                    },
+                    {
+                        "name": "Color Maze Room Top Chest 2",
+                        "ref": "Temple of Darkness/Color Maze Room Top Chest 2/"
+                    },
+                    {
+                        "name": "Color Maze Room Center Chest",
+                        "ref": "Temple of Darkness/Color Maze Room Center Chest/"
+                    },
+                    {
+                        "name": "Secret Room Chest",
+                        "ref": "Temple of Darkness/Secret Room Chest/"
+                    },
+                    {
+                        "name": "Bouncy Room Top Chest 1",
+                        "ref": "Temple of Darkness/Bouncy Room Top Chest 1/"
+                    },
+                    {
+                        "name": "Bouncy Room Top Chest 2",
+                        "ref": "Temple of Darkness/Bouncy Room Top Chest 2/"
+                    },
+                    {
+                        "name": "Bouncy Room Bottom Chest",
+                        "ref": "Temple of Darkness/Bouncy Room Bottom Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Temple of Darkness/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 427,
+                        "y": 1936,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 198,
+                        "y": 359,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Coast",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Start Cave Chest 1",
+                        "ref": "The Coast/Start Cave Chest 1/"
+                    },
+                    {
+                        "name": "Start Cave Chest 2",
+                        "ref": "The Coast/Start Cave Chest 2/"
+                    },
+                    {
+                        "name": "Left Beach Chest",
+                        "ref": "The Coast/Left Beach Chest/"
+                    },
+                    {
+                        "name": "House Chest",
+                        "ref": "The Coast/House Chest/"
+                    },
+                    {
+                        "name": "House Cave Chest",
+                        "ref": "The Coast/House Cave Chest/"
+                    },
+                    {
+                        "name": "House Beach Cave Chest",
+                        "ref": "The Coast/House Beach Cave Chest/"
+                    },
+                    {
+                        "name": "Right Beach Left Cave Chest",
+                        "ref": "The Coast/Right Beach Left Cave Chest/"
+                    },
+                    {
+                        "name": "Right Beach Right Cave Chest",
+                        "ref": "The Coast/Right Beach Right Cave Chest/"
+                    },
+                    {
+                        "name": "Grass Hole Chest",
+                        "ref": "The Coast/Grass Hole Chest/"
+                    },
+                    {
+                        "name": "Grass Cave Chest",
+                        "ref": "The Coast/Grass Cave Chest/"
+                    },
+                    {
+                        "name": "Right Battle Chest 1",
+                        "ref": "The Coast/Right Battle Chest 1/"
+                    },
+                    {
+                        "name": "Right Battle Chest 2",
+                        "ref": "The Coast/Right Battle Chest 2/"
+                    },
+                    {
+                        "name": "Right Battle Chest 3",
+                        "ref": "The Coast/Right Battle Chest 3/"
+                    },
+                    {
+                        "name": "Right Battle Chest 4",
+                        "ref": "The Coast/Right Battle Chest 4/"
+                    },
+                    {
+                        "name": "Right Ocean Chest",
+                        "ref": "The Coast/Right Ocean Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "The Coast/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1914,
+                        "y": 1380,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 591,
+                        "y": 561,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Dark Cloud",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "2D Entrance Chest",
+                        "ref": "The Dark Cloud/2D Entrance Chest/"
+                    },
+                    {
+                        "name": "2D Cannons Chest",
+                        "ref": "The Dark Cloud/2D Cannons Chest/"
+                    },
+                    {
+                        "name": "First Battle Chest",
+                        "ref": "The Dark Cloud/First Battle Chest/"
+                    },
+                    {
+                        "name": "Mole Maze Right Chest",
+                        "ref": "The Dark Cloud/Mole Maze Right Chest/"
+                    },
+                    {
+                        "name": "Mole Maze Left Chest",
+                        "ref": "The Dark Cloud/Mole Maze Left Chest/"
+                    },
+                    {
+                        "name": "Windy Room Chest",
+                        "ref": "The Dark Cloud/Windy Room Chest/"
+                    },
+                    {
+                        "name": "Treasure Room Right Chest",
+                        "ref": "The Dark Cloud/Treasure Room Right Chest/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 1",
+                        "ref": "The Dark Cloud/Treasure Room Chest 1/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 2",
+                        "ref": "The Dark Cloud/Treasure Room Chest 2/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 3",
+                        "ref": "The Dark Cloud/Treasure Room Chest 3/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 4",
+                        "ref": "The Dark Cloud/Treasure Room Chest 4/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 5",
+                        "ref": "The Dark Cloud/Treasure Room Chest 5/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 6",
+                        "ref": "The Dark Cloud/Treasure Room Chest 6/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 7",
+                        "ref": "The Dark Cloud/Treasure Room Chest 7/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 8",
+                        "ref": "The Dark Cloud/Treasure Room Chest 8/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 9",
+                        "ref": "The Dark Cloud/Treasure Room Chest 9/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 10",
+                        "ref": "The Dark Cloud/Treasure Room Chest 10/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 11",
+                        "ref": "The Dark Cloud/Treasure Room Chest 11/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 12",
+                        "ref": "The Dark Cloud/Treasure Room Chest 12/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 13",
+                        "ref": "The Dark Cloud/Treasure Room Chest 13/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 14",
+                        "ref": "The Dark Cloud/Treasure Room Chest 14/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 15",
+                        "ref": "The Dark Cloud/Treasure Room Chest 15/"
+                    },
+                    {
+                        "name": "Treasure Room Chest 16",
+                        "ref": "The Dark Cloud/Treasure Room Chest 16/"
+                    },
+                    {
+                        "name": "Merge Left Chest",
+                        "ref": "The Dark Cloud/Merge Left Chest/"
+                    },
+                    {
+                        "name": "Spike Maze South East Chest 1",
+                        "ref": "The Dark Cloud/Spike Maze South East Chest 1/"
+                    },
+                    {
+                        "name": "Spike Maze South East Chest 2",
+                        "ref": "The Dark Cloud/Spike Maze South East Chest 2/"
+                    },
+                    {
+                        "name": "Spike Maze East Chest 1",
+                        "ref": "The Dark Cloud/Spike Maze East Chest 1/"
+                    },
+                    {
+                        "name": "Spike Maze East Chest 2",
+                        "ref": "The Dark Cloud/Spike Maze East Chest 2/"
+                    },
+                    {
+                        "name": "Spike Maze East Chest 3",
+                        "ref": "The Dark Cloud/Spike Maze East Chest 3/"
+                    },
+                    {
+                        "name": "Spike Maze West Chest",
+                        "ref": "The Dark Cloud/Spike Maze West Chest/"
+                    },
+                    {
+                        "name": "Spike Maze North East Chest 1",
+                        "ref": "The Dark Cloud/Spike Maze North East Chest 1/"
+                    },
+                    {
+                        "name": "Spike Maze North East Chest 2",
+                        "ref": "The Dark Cloud/Spike Maze North East Chest 2/"
+                    },
+                    {
+                        "name": "Spike Maze North East Chest 3",
+                        "ref": "The Dark Cloud/Spike Maze North East Chest 3/"
+                    },
+                    {
+                        "name": "Spike Maze North West Chest",
+                        "ref": "The Dark Cloud/Spike Maze North West Chest/"
+                    },
+                    {
+                        "name": "Candle Room Chest 1",
+                        "ref": "The Dark Cloud/Candle Room Chest 1/"
+                    },
+                    {
+                        "name": "Candle Room Chest 2",
+                        "ref": "The Dark Cloud/Candle Room Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "The Dark Cloud/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2243,
+                        "y": 1265,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 705,
+                        "y": 70,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Field",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lon Lon Ranch Hole Chest 1",
+                        "ref": "The Field/Lon Lon Ranch Hole Chest 1/"
+                    },
+                    {
+                        "name": "Lon Lon Ranch Hole Chest 2",
+                        "ref": "The Field/Lon Lon Ranch Hole Chest 2/"
+                    },
+                    {
+                        "name": "Lon Lon Ranch Basement Chest 1",
+                        "ref": "The Field/Lon Lon Ranch Basement Chest 1/"
+                    },
+                    {
+                        "name": "Lon Lon Ranch Basement Chest 2",
+                        "ref": "The Field/Lon Lon Ranch Basement Chest 2/"
+                    },
+                    {
+                        "name": "House Right Hole Chest",
+                        "ref": "The Field/House Right Hole Chest/"
+                    },
+                    {
+                        "name": "House Left Hole Chest",
+                        "ref": "The Field/House Left Hole Chest/"
+                    },
+                    {
+                        "name": "House Yard Chest",
+                        "ref": "The Field/House Yard Chest/"
+                    },
+                    {
+                        "name": "House North Left Hole Chest",
+                        "ref": "The Field/House North Left Hole Chest/"
+                    },
+                    {
+                        "name": "House North Right Hole Chest",
+                        "ref": "The Field/House North Right Hole Chest/"
+                    },
+                    {
+                        "name": "Fairy Cave Chest",
+                        "ref": "The Field/Fairy Cave Chest/"
+                    },
+                    {
+                        "name": "Fairy Gap Chest",
+                        "ref": "The Field/Fairy Gap Chest/"
+                    },
+                    {
+                        "name": "Storeroom North North Hole Chest",
+                        "ref": "The Field/Storeroom North North Hole Chest/"
+                    },
+                    {
+                        "name": "Storeroom North West Hole Chest",
+                        "ref": "The Field/Storeroom North West Hole Chest/"
+                    },
+                    {
+                        "name": "Storeroom North East Hole Chest",
+                        "ref": "The Field/Storeroom North East Hole Chest/"
+                    },
+                    {
+                        "name": "Storeroom North South Hole Chest",
+                        "ref": "The Field/Storeroom North South Hole Chest/"
+                    },
+                    {
+                        "name": "Movable House Hole Chest 1",
+                        "ref": "The Field/Movable House Hole Chest 1/"
+                    },
+                    {
+                        "name": "Movable House Hole Chest 2",
+                        "ref": "The Field/Movable House Hole Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "The Field/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 684,
+                        "y": 1912,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 495,
+                        "y": 528,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Ice Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Entrance Chest",
+                        "ref": "The Ice Temple/Entrance Chest/"
+                    },
+                    {
+                        "name": "Bomb Break Puzzle Chest",
+                        "ref": "The Ice Temple/Bomb Break Puzzle Chest/"
+                    },
+                    {
+                        "name": "T Split Center Chest",
+                        "ref": "The Ice Temple/T Split Center Chest/"
+                    },
+                    {
+                        "name": "T Split Left Chest",
+                        "ref": "The Ice Temple/T Split Left Chest/"
+                    },
+                    {
+                        "name": "T Split Right Chest",
+                        "ref": "The Ice Temple/T Split Right Chest/"
+                    },
+                    {
+                        "name": "Void Zigzag Chest",
+                        "ref": "The Ice Temple/Void Zigzag Chest/"
+                    },
+                    {
+                        "name": "Ice Wall Room Chest 1",
+                        "ref": "The Ice Temple/Ice Wall Room Chest 1/"
+                    },
+                    {
+                        "name": "Ice Wall Room Chest 2",
+                        "ref": "The Ice Temple/Ice Wall Room Chest 2/"
+                    },
+                    {
+                        "name": "Bomb Slide Puzzle Chest 1",
+                        "ref": "The Ice Temple/Bomb Slide Puzzle Chest 1/"
+                    },
+                    {
+                        "name": "Bomb Slide Puzzle Chest 2",
+                        "ref": "The Ice Temple/Bomb Slide Puzzle Chest 2/"
+                    },
+                    {
+                        "name": "Block Puzzle Chest",
+                        "ref": "The Ice Temple/Block Puzzle Chest/"
+                    },
+                    {
+                        "name": "Fairy Room Chest",
+                        "ref": "The Ice Temple/Fairy Room Chest/"
+                    },
+                    {
+                        "name": "Somaria Void Room East Chest 1",
+                        "ref": "The Ice Temple/Somaria Void Room East Chest 1/"
+                    },
+                    {
+                        "name": "Somaria Void Room East Chest 2",
+                        "ref": "The Ice Temple/Somaria Void Room East Chest 2/"
+                    },
+                    {
+                        "name": "Somaria Void Room East Chest 3",
+                        "ref": "The Ice Temple/Somaria Void Room East Chest 3/"
+                    },
+                    {
+                        "name": "Somaria Void Room East Chest 4",
+                        "ref": "The Ice Temple/Somaria Void Room East Chest 4/"
+                    },
+                    {
+                        "name": "Fire Puzzle Chest 1",
+                        "ref": "The Ice Temple/Fire Puzzle Chest 1/"
+                    },
+                    {
+                        "name": "Fire Puzzle Chest 2",
+                        "ref": "The Ice Temple/Fire Puzzle Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "The Ice Temple/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 390,
+                        "y": 1487,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 359,
+                        "y": 459,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Mountain Path",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Platform Wall Center Chest",
+                        "ref": "The Mountain Path/Platform Wall Center Chest/"
+                    },
+                    {
+                        "name": "Platform Wall Right Chest 1",
+                        "ref": "The Mountain Path/Platform Wall Right Chest 1/"
+                    },
+                    {
+                        "name": "Platform Wall Right Chest 2",
+                        "ref": "The Mountain Path/Platform Wall Right Chest 2/"
+                    },
+                    {
+                        "name": "House Chest",
+                        "ref": "The Mountain Path/House Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "The Mountain Path/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1338,
+                        "y": 1692,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 361,
+                        "y": 176,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Swamp",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "East Cave Chest",
+                        "ref": "The Swamp/East Cave Chest/"
+                    },
+                    {
+                        "name": "East Lily Pad Chest 1",
+                        "ref": "The Swamp/East Lily Pad Chest 1/"
+                    },
+                    {
+                        "name": "East Lily Pad Chest 2",
+                        "ref": "The Swamp/East Lily Pad Chest 2/"
+                    },
+                    {
+                        "name": "Graveyard Entrance South Cave Chest 1",
+                        "ref": "The Swamp/Graveyard Entrance South Cave Chest 1/"
+                    },
+                    {
+                        "name": "Graveyard Entrance South Cave Chest 2",
+                        "ref": "The Swamp/Graveyard Entrance South Cave Chest 2/"
+                    },
+                    {
+                        "name": "Graveyard Entrance North Cave Chest",
+                        "ref": "The Swamp/Graveyard Entrance North Cave Chest/"
+                    },
+                    {
+                        "name": "Graveyard West Grave Chest 1",
+                        "ref": "The Swamp/Graveyard West Grave Chest 1/"
+                    },
+                    {
+                        "name": "Graveyard West Grave Chest 2",
+                        "ref": "The Swamp/Graveyard West Grave Chest 2/"
+                    },
+                    {
+                        "name": "Dampe Chest",
+                        "ref": "The Swamp/Dampe Chest/"
+                    },
+                    {
+                        "name": "Graveyard East Chest 1",
+                        "ref": "The Swamp/Graveyard East Chest 1/"
+                    },
+                    {
+                        "name": "Graveyard East Chest 2",
+                        "ref": "The Swamp/Graveyard East Chest 2/"
+                    },
+                    {
+                        "name": "Graveyard East Chest 3",
+                        "ref": "The Swamp/Graveyard East Chest 3/"
+                    },
+                    {
+                        "name": "Graveyard East Chest 4",
+                        "ref": "The Swamp/Graveyard East Chest 4/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "The Swamp/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2128,
+                        "y": 66,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 510,
+                        "y": 458,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower of Flames",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "2F Chest",
+                        "ref": "Tower of Flames/2F Chest/"
+                    },
+                    {
+                        "name": "3F Chest 1",
+                        "ref": "Tower of Flames/3F Chest 1/"
+                    },
+                    {
+                        "name": "3F Chest 2",
+                        "ref": "Tower of Flames/3F Chest 2/"
+                    },
+                    {
+                        "name": "4F Chest 1",
+                        "ref": "Tower of Flames/4F Chest 1/"
+                    },
+                    {
+                        "name": "4F Chest 2",
+                        "ref": "Tower of Flames/4F Chest 2/"
+                    },
+                    {
+                        "name": "4F Chest 3",
+                        "ref": "Tower of Flames/4F Chest 3/"
+                    },
+                    {
+                        "name": "6F Chest 1",
+                        "ref": "Tower of Flames/6F Chest 1/"
+                    },
+                    {
+                        "name": "6F Chest 2",
+                        "ref": "Tower of Flames/6F Chest 2/"
+                    },
+                    {
+                        "name": "6F Chest 3",
+                        "ref": "Tower of Flames/6F Chest 3/"
+                    },
+                    {
+                        "name": "7F Chest 1",
+                        "ref": "Tower of Flames/7F Chest 1/"
+                    },
+                    {
+                        "name": "7F Chest 2",
+                        "ref": "Tower of Flames/7F Chest 2/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Tower of Flames/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2081,
+                        "y": 693,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 477,
+                        "y": 113,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower of Winds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "2F Chest 1",
+                        "ref": "Tower of Winds/2F Chest 1/"
+                    },
+                    {
+                        "name": "2F Chest 2",
+                        "ref": "Tower of Winds/2F Chest 2/"
+                    },
+                    {
+                        "name": "3F Chest",
+                        "ref": "Tower of Winds/3F Chest/"
+                    },
+                    {
+                        "name": "3F Inside Left Chest",
+                        "ref": "Tower of Winds/3F Inside Left Chest/"
+                    },
+                    {
+                        "name": "3F Inside Right Chest",
+                        "ref": "Tower of Winds/3F Inside Right Chest/"
+                    },
+                    {
+                        "name": "4F Left Chest",
+                        "ref": "Tower of Winds/4F Left Chest/"
+                    },
+                    {
+                        "name": "4F Right Chest",
+                        "ref": "Tower of Winds/4F Right Chest/"
+                    },
+                    {
+                        "name": "6F Top Chest 1",
+                        "ref": "Tower of Winds/6F Top Chest 1/"
+                    },
+                    {
+                        "name": "6F Top Chest 2",
+                        "ref": "Tower of Winds/6F Top Chest 2/"
+                    },
+                    {
+                        "name": "6F Bottom Chest",
+                        "ref": "Tower of Winds/6F Bottom Chest/"
+                    },
+                    {
+                        "name": "Boss Floor Chest",
+                        "ref": "Tower of Winds/Boss Floor Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Tower of Winds/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2411,
+                        "y": 1886,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 298,
+                        "y": 356,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Village of the Blue Maiden",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Intersection Chest 1",
+                        "ref": "Village of the Blue Maiden/Intersection Chest 1/"
+                    },
+                    {
+                        "name": "Intersection Chest 2",
+                        "ref": "Village of the Blue Maiden/Intersection Chest 2/"
+                    },
+                    {
+                        "name": "Village East Chest",
+                        "ref": "Village of the Blue Maiden/Village East Chest/"
+                    },
+                    {
+                        "name": "Village North Chest 1",
+                        "ref": "Village of the Blue Maiden/Village North Chest 1/"
+                    },
+                    {
+                        "name": "Village North Chest 2",
+                        "ref": "Village of the Blue Maiden/Village North Chest 2/"
+                    },
+                    {
+                        "name": "Village West Right House Chest",
+                        "ref": "Village of the Blue Maiden/Village West Right House Chest/"
+                    },
+                    {
+                        "name": "Village West Left Dark House Chest",
+                        "ref": "Village of the Blue Maiden/Village West Left Dark House Chest/"
+                    },
+                    {
+                        "name": "Stage Clear",
+                        "ref": "Village of the Blue Maiden/Stage Clear/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1943,
+                        "y": 1689,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule",
+                        "x": 622,
+                        "y": 499,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

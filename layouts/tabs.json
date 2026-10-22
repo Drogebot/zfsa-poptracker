@@ -1,0 +1,462 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Hyrule",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hyrule"
+                    ]
+                }
+            },
+            {
+                "title": "Lake Hylia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lake Hylia"
+                    ]
+                }
+            },
+            {
+                "title": "Cave of No Return",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cave of No Return"
+                    ]
+                }
+            },
+            {
+                "title": "Hyrule Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hyrule Castle"
+                    ]
+                }
+            },
+            {
+                "title": "The Coast",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Coast"
+                    ]
+                }
+            },
+            {
+                "title": "Village of the Blue Maiden",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Village of the Blue Maiden"
+                    ]
+                }
+            },
+            {
+                "title": "Eastern Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Eastern Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Death Mountain Foothills",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Death Mountain Foothills"
+                    ]
+                }
+            },
+            {
+                "title": "The Mountain Path",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Mountain Path"
+                    ]
+                }
+            },
+            {
+                "title": "Tower of Flames",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tower of Flames"
+                    ]
+                }
+            },
+            {
+                "title": "The Field",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Field"
+                    ]
+                }
+            },
+            {
+                "title": "The Swamp",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Swamp"
+                    ]
+                }
+            },
+            {
+                "title": "Infiltration of Hyrule Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Infiltration of Hyrule Castle"
+                    ]
+                }
+            },
+            {
+                "title": "Lost Woods",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lost Woods"
+                    ]
+                }
+            },
+            {
+                "title": "Kakariko Village",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Kakariko Village"
+                    ]
+                }
+            },
+            {
+                "title": "Temple of Darkness",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Temple of Darkness"
+                    ]
+                }
+            },
+            {
+                "title": "Desert of Doubt",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Desert of Doubt"
+                    ]
+                }
+            },
+            {
+                "title": "Desert Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Desert Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Pyramid",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pyramid"
+                    ]
+                }
+            },
+            {
+                "title": "Frozen Hyrule",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Frozen Hyrule"
+                    ]
+                }
+            },
+            {
+                "title": "The Ice Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Ice Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Tower of Winds",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tower of Winds"
+                    ]
+                }
+            },
+            {
+                "title": "Realm of the Heavens",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Realm of the Heavens"
+                    ]
+                }
+            },
+            {
+                "title": "The Dark Cloud",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Dark Cloud"
+                    ]
+                }
+            },
+            {
+                "title": "Palace of Winds",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Palace of Winds"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Hyrule",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hyrule"
+                    ]
+                }
+            },
+            {
+                "title": "Lake Hylia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lake Hylia"
+                    ]
+                }
+            },
+            {
+                "title": "Cave of No Return",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cave of No Return"
+                    ]
+                }
+            },
+            {
+                "title": "Hyrule Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hyrule Castle"
+                    ]
+                }
+            },
+            {
+                "title": "The Coast",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Coast"
+                    ]
+                }
+            },
+            {
+                "title": "Village of the Blue Maiden",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Village of the Blue Maiden"
+                    ]
+                }
+            },
+            {
+                "title": "Eastern Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Eastern Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Death Mountain Foothills",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Death Mountain Foothills"
+                    ]
+                }
+            },
+            {
+                "title": "The Mountain Path",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Mountain Path"
+                    ]
+                }
+            },
+            {
+                "title": "Tower of Flames",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tower of Flames"
+                    ]
+                }
+            },
+            {
+                "title": "The Field",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Field"
+                    ]
+                }
+            },
+            {
+                "title": "The Swamp",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Swamp"
+                    ]
+                }
+            },
+            {
+                "title": "Infiltration of Hyrule Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Infiltration of Hyrule Castle"
+                    ]
+                }
+            },
+            {
+                "title": "Lost Woods",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lost Woods"
+                    ]
+                }
+            },
+            {
+                "title": "Kakariko Village",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Kakariko Village"
+                    ]
+                }
+            },
+            {
+                "title": "Temple of Darkness",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Temple of Darkness"
+                    ]
+                }
+            },
+            {
+                "title": "Desert of Doubt",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Desert of Doubt"
+                    ]
+                }
+            },
+            {
+                "title": "Desert Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Desert Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Pyramid",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pyramid"
+                    ]
+                }
+            },
+            {
+                "title": "Frozen Hyrule",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Frozen Hyrule"
+                    ]
+                }
+            },
+            {
+                "title": "The Ice Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Ice Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Tower of Winds",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tower of Winds"
+                    ]
+                }
+            },
+            {
+                "title": "Realm of the Heavens",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Realm of the Heavens"
+                    ]
+                }
+            },
+            {
+                "title": "The Dark Cloud",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Dark Cloud"
+                    ]
+                }
+            },
+            {
+                "title": "Palace of Winds",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Palace of Winds"
+                    ]
+                }
+            }
+        ]
+    }
+}
