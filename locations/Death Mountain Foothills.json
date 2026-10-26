@@ -293,6 +293,412 @@
             "shape": "rect"
           }
         ]
+      },
+      {
+        "name": "Left Storage Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 566,
+            "y": 2623,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Left Storage Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 582,
+            "y": 2621,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Left Storage Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 566,
+            "y": 2653,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Left Storage Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 582,
+            "y": 2654,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Right Storage Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 661,
+            "y": 2785,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Right Storage Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 679,
+            "y": 2786,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Right Storage Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 662,
+            "y": 2820,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Right Storage Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 678,
+            "y": 2819,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Past Bridge Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 852,
+            "y": 2237,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Moveable House Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1098,
+            "y": 1657,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Moveable House Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1114,
+            "y": 1659,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Moveable House Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1098,
+            "y": 1691,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Moveable House Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches]","progressivebow","progressivepegasusboots_stage2","progressiverocsfeather_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 1114,
+            "y": 1690,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Mountain Side Bomb Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebow,progressivemagichammer","progressivemagichammer,progressivepegasusboots_stage2","[glitches],progressivebombs,progressivemagichammer","[glitches],progressiveboomerang,progressivemagichammer","[glitches],progressivefirerod,progressivemagichammer","[glitches],progressivelamp,progressivemagichammer","[glitches],progressivemagichammer,progressivemagichammer_stage2","[glitches],progressivemagichammer,progressiveslingshot","progressivebombs,progressivemagichammer,progressiverocsfeather_stage2","progressiveboomerang,progressivemagichammer,progressiverocsfeather_stage2","progressivefirerod,progressivemagichammer,progressiverocsfeather_stage2","progressivelamp,progressivemagichammer,progressiverocsfeather_stage2","progressivemagichammer,progressivemagichammer_stage2,progressiverocsfeather_stage2","progressivemagichammer,progressiverocsfeather_stage2,progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain Foothills",
+            "x": 959,
+            "y": 1087,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
       }
     ]
   }

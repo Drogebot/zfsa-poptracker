@@ -295,7 +295,7 @@
         ]
       },
       {
-        "name": "Storeroom North North Hole Chest",
+        "name": "Storage North North Hole Chest",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "name": "Storeroom North West Hole Chest",
+        "name": "Storage North West Hole Chest",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -347,7 +347,7 @@
         ]
       },
       {
-        "name": "Storeroom North East Hole Chest",
+        "name": "Storage North East Hole Chest",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -373,7 +373,7 @@
         ]
       },
       {
-        "name": "Storeroom North South Hole Chest",
+        "name": "Storage North South Hole Chest",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -500,6 +500,383 @@
             "size": 60,
             "shape": "rect"
           }
+        ]
+      },
+      {
+        "name": "Lon Lon Ranch Basement Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 1346,
+            "y": 3560,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Lon Lon Ranch Basement Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 1377,
+            "y": 3560,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Lon Lon Ranch Basement Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 1346,
+            "y": 3593,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Lon Lon Ranch Basement Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 1377,
+            "y": 3591,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Storage Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "thefieldstoragekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4222,
+            "y": 1584,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Storage Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "thefieldstoragekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4299,
+            "y": 1583,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Storage Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "thefieldstoragekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4220,
+            "y": 1631,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Storage Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "thefieldstoragekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4300,
+            "y": 1632,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Strange Cave Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,thefieldstangecavekey","progressiverocsfeather,thefieldstangecavekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 2722,
+            "y": 78,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Movable House Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4664,
+            "y": 554,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Movable House Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4744,
+            "y": 555,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Movable House Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4665,
+            "y": 603,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Movable House Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Field",
+            "x": 4744,
+            "y": 603,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
         ]
       }
     ]

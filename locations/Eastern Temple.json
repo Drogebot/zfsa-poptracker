@@ -553,6 +553,354 @@
             "shape": "rect"
           }
         ]
+      },
+      {
+        "name": "Center Room Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1451,
+            "y": 2216,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "North East Room Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplenortheastmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1786,
+            "y": 1611,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "North East Room Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplenortheastmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1802,
+            "y": 1609,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "North East Room Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplenortheastmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1786,
+            "y": 1642,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "North East Room Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplenortheastmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1804,
+            "y": 1641,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "East Room Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 2749,
+            "y": 2315,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "South Room Left Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplesouthwestkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 902,
+            "y": 2798,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "South Room Right Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,easterntemplesoutheastkey,progressivebombs"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 1967,
+            "y": 3075,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Room Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 661,
+            "y": 665,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Room Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 711,
+            "y": 666,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Room Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 871,
+            "y": 667,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Room Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "easterntempleentrancekey,progressivebow,progressivefirerod","easterntempleentrancekey,progressivebow,progressivelamp","easterntempleentrancekey,progressivefirerod,progressivepegasusboots_stage2","easterntempleentrancekey,progressivelamp,progressivepegasusboots_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Temple",
+            "x": 919,
+            "y": 666,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
       }
     ]
   }

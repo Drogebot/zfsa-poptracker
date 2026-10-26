@@ -215,6 +215,470 @@
             "shape": "rect"
           }
         ]
+      },
+      {
+        "name": "Village East Barn Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,villageofthebluemaidenvillageentrancemoongate","progressivefirerod,villageofthebluemaidenvillageentrancemoongate","progressivelamp,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1619,
+            "y": 388,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East Barn Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs,villageofthebluemaidenvillageentrancemoongate","progressivefirerod,villageofthebluemaidenvillageentrancemoongate","progressivelamp,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1618,
+            "y": 467,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East Right House Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1962,
+            "y": 222,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East Right House Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1978,
+            "y": 224,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East Right House Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1994,
+            "y": 222,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East Right House Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2010,
+            "y": 223,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 1-1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2911,
+            "y": 762,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 1-2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2974,
+            "y": 762,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 2-1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2910,
+            "y": 909,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 2-2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2974,
+            "y": 910,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 3-1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2910,
+            "y": 612,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 3-2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2974,
+            "y": 613,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 4-1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2910,
+            "y": 1058,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village East RNG Pedestal 4-2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressiveshovel,villageofthebluemaidenvillageeastmoongate,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 2974,
+            "y": 1057,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village West Right Dark House Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "villageofthebluemaidenvillageentrancemoongate,villageofthebluemaidenvillagewestmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 1927,
+            "y": 1389,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Village North Long House Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],villageofthebluemaidenvillageentrancemoongate","progressivepegasusboots_stage2,villageofthebluemaidenvillageentrancemoongate","progressiverocsfeather,villageofthebluemaidenvillageentrancemoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village of the Blue Maiden",
+            "x": 730,
+            "y": 34,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
       }
     ]
   }

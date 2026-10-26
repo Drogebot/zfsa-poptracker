@@ -1,7 +1,7 @@
 {
     "name": "Four Swords Adventures AP Tracker",
     "game_name": "The Legend of Zelda: Four Swords Adventures",
-    "package_version": "0.0.1",
+    "package_version": "0.0.2",
     "package_uid": "zfsa_ap",
     "author": "Drogings",
     "variants": {

@@ -319,6 +319,673 @@
             "shape": "rect"
           }
         ]
+      },
+      {
+        "name": "2F Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1420,
+            "y": 2218,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 774,
+            "y": 1498,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Inside Bottom Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 97,
+            "y": 1838,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Inside Bottom Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 113,
+            "y": 1837,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Inside Top Left Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 128,
+            "y": 1062,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Inside Top Right Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 465,
+            "y": 1063,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Inside Top Center Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,towerofwindsprogressivekey","progressivelamp,towerofwindsprogressivekey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 401,
+            "y": 1246,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "5F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 466,
+            "y": 553,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "5F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 480,
+            "y": 552,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "5F Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 496,
+            "y": 554,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "5F Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 513,
+            "y": 553,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1196,
+            "y": 491,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1213,
+            "y": 491,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1229,
+            "y": 491,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 1245,
+            "y": 491,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "8F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2024,
+            "y": 2016,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "8F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2040,
+            "y": 2015,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "8F Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2056,
+            "y": 2016,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "8F Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2072,
+            "y": 2014,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Floor Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2990,
+            "y": 1364,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Floor Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2990,
+            "y": 1427,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Floor Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2991,
+            "y": 1491,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Boss Floor Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivefirerod,progressiverocsfeather,towerofwindsprogressivekey_stage2","progressivelamp,progressiverocsfeather,towerofwindsprogressivekey_stage2"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Winds",
+            "x": 2991,
+            "y": 1556,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
       }
     ]
   }

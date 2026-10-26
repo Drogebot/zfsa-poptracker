@@ -404,7 +404,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots,progressivepegasusboots_stage2"
+          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots_stage2","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
         ],
         "sections": [
           {
@@ -430,7 +430,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
+          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots_stage2","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
         ],
         "sections": [
           {
@@ -456,7 +456,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
+          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots_stage2","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
         ],
         "sections": [
           {
@@ -482,7 +482,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
+          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots_stage2","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
         ],
         "sections": [
           {
@@ -508,7 +508,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
+          "[glitches],desertofdoubtgerudotownnortheastmoongate","desertofdoubtgerudotownnortheastmoongate,progressivepegasusboots_stage2","desertofdoubtgerudotownnortheastmoongate,progressiverocsfeather"
         ],
         "sections": [
           {
@@ -812,6 +812,122 @@
             "size": 60,
             "shape": "rect"
           }
+        ]
+      },
+      {
+        "name": "Gerudo Town North Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert of Doubt",
+            "x": 716,
+            "y": 1852,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Gerudo Town North Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert of Doubt",
+            "x": 701,
+            "y": 1867,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Gerudo Town North Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert of Doubt",
+            "x": 685,
+            "y": 1882,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Gerudo Town North Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert of Doubt",
+            "x": 669,
+            "y": 1899,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
         ]
       }
     ]

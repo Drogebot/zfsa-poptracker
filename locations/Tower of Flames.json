@@ -319,6 +319,499 @@
             "shape": "rect"
           }
         ]
+      },
+      {
+        "name": "Entrance Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 186,
+            "y": 4040,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Entrance Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 330,
+            "y": 4043,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "2F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 345,
+            "y": 3034,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "2F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 363,
+            "y": 3035,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 219,
+            "y": 2653,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 251,
+            "y": 2650,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 217,
+            "y": 2845,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3F Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebombs_stage2","progressiveboomerang_stage2","progressivebow","progressivepegasusboots_stage2","progressiveslingshot"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 250,
+            "y": 2844,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "5F Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 58,
+            "y": 1963,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1135,
+            "y": 1741,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1166,
+            "y": 1740,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1133,
+            "y": 1775,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "6F Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 1165,
+            "y": 1773,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "7F Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 42,
+            "y": 1083,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "7F Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 156,
+            "y": 1082,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "7F Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 43,
+            "y": 1130,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "7F Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivepegasusboots_stage2,towerofflames4fkey","[glitches],progressivebombs_stage2,towerofflames4fkey","[glitches],progressiveboomerang_stage2,towerofflames4fkey","[glitches],progressivebow,towerofflames4fkey","[glitches],progressiveslingshot,towerofflames4fkey","progressivebombs_stage2,progressiverocsfeather,towerofflames4fkey","progressiveboomerang_stage2,progressiverocsfeather,towerofflames4fkey","progressivebow,progressiverocsfeather,towerofflames4fkey","progressiverocsfeather,progressiveslingshot,towerofflames4fkey"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Tower of Flames",
+            "x": 155,
+            "y": 1127,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
       }
     ]
   }

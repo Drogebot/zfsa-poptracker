@@ -232,8 +232,8 @@ class RuleCompiler:
                 ))
             if req.desert_cactus:
                 trick_exprs.append(or_dnf(
-                    dnf_atom("progressivepegasusboots"),
                     dnf_atom("progressiverocsfeather"),
+                    dnf_atom(atom("progressivepegasusboots", 2)),
                 ))
             if req.desert_death_clip:
                 trick_exprs.append(or_dnf(
@@ -355,6 +355,28 @@ def find_child(container: dict, name: str) -> dict | None:
     return None
 
 
+def create_child(container: dict, name: str) -> dict:
+    children = container.get("children", [])
+    child = {
+        "name": name,
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [""],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+    }
+    children.append(child)
+    return child
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--logic-dir", type=Path, required=True, help="Directory containing static_logic.py")
@@ -418,6 +440,17 @@ def main() -> int:
                 errors.append(f"{path.name}: couldn't find chest child {chest.name!r}")
             else:
                 set_rules(node, compiler.serialize(compiler.requirements(chest.requirements)))
+
+        # Pedestal rules are the local requirements only (same as zfsa_pedestal_rule).
+        for pedestal in region.pedestals:
+            node = find_child(container, pedestal.name)
+            if node is None:
+                errors.append(f"{path.name}: couldn't find pedestal child {pedestal.name!r}")
+                node = create_child(container, pedestal.name)
+                set_rules(node, compiler.serialize(compiler.requirements(pedestal.requirements)))
+            else:
+                set_rules(node, compiler.serialize(compiler.requirements(pedestal.requirements)))
+            node["visibility_rules"] = ["$item_pedestals"]
 
         # Jewel rules are the local requirements only (same as zfsa_jewel_rule).
         if region.jewel is not None:

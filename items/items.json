@@ -234,12 +234,12 @@
         "codes": "bigblueforcegem"
     },
     {
-        "name": "infiltrantionofhyrulecastlelowerjailkey",
+        "name": "infiltrationofhyrulecastleoutsidejailkey",
         "type": "toggle",
         "img": "images/items/key.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "infiltrantionofhyrulecastlelowerjailkey"
+        "codes": "infiltrationofhyrulecastleoutsidejailkey"
     },
     {
         "name": "red royal jewel",
@@ -524,7 +524,7 @@
         "codes": "pyramidcentermoongate"
     },
     {
-        "name": "infiltrantionofhyrulecastleprogressivebasementkey",
+        "name": "infiltrationofhyrulecastleprogressivebasementkey",
         "type": "progressive",
         "loop": false,
         "allow_disabled": true,
@@ -532,22 +532,22 @@
         "overlay_align": "right",
         "stages": [
             {
-                "name": "infiltrantionofhyrulecastleprogressivebasementkey stage1",
+                "name": "infiltrationofhyrulecastleprogressivebasementkey stage1",
                 "inherit_codes": true,
                 "img": "/images/items/key.png",
-                "codes": "infiltrantionofhyrulecastleprogressivebasementkey, infiltrantionofhyrulecastleprogressivebasementkey_stage1"
+                "codes": "infiltrationofhyrulecastleprogressivebasementkey, infiltrationofhyrulecastleprogressivebasementkey_stage1"
             },
             {
-                "name": "infiltrantionofhyrulecastleprogressivebasementkey stage2",
+                "name": "infiltrationofhyrulecastleprogressivebasementkey stage2",
                 "inherit_codes": true,
                 "img": "/images/items/key.png",
-                "codes": "infiltrantionofhyrulecastleprogressivebasementkey_stage2"
+                "codes": "infiltrationofhyrulecastleprogressivebasementkey_stage2"
             },
             {
-                "name": "infiltrantionofhyrulecastleprogressivebasementkey stage3",
+                "name": "infiltrationofhyrulecastleprogressivebasementkey stage3",
                 "inherit_codes": true,
                 "img": "/images/items/key.png",
-                "codes": "infiltrantionofhyrulecastleprogressivebasementkey_stage3"
+                "codes": "infiltrationofhyrulecastleprogressivebasementkey_stage3"
             }
         ]
     },
@@ -608,12 +608,26 @@
         ]
     },
     {
-        "name": "pyramidsoutheastkey",
-        "type": "toggle",
-        "img": "images/items/key.png",
-        "initial_active_state": false,
+        "name": "pyramidsoutheastprogressivekey",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
         "overlay_align": "right",
-        "codes": "pyramidsoutheastkey"
+        "stages": [
+            {
+                "name": "pyramidsoutheastprogressivekey stage1",
+                "inherit_codes": true,
+                "img": "/images/items/key.png",
+                "codes": "pyramidsoutheastprogressivekey, pyramidsoutheastprogressivekey_stage1"
+            },
+            {
+                "name": "pyramidsoutheastprogressivekey stage2",
+                "inherit_codes": true,
+                "img": "/images/items/moon_pearl.png",
+                "codes": "pyramidsoutheastprogressivekey_stage2"
+            }
+        ]
     },
     {
         "name": "firetrap",
@@ -656,12 +670,12 @@
         ]
     },
     {
-        "name": "thefieldstoreroomkey",
+        "name": "thefieldstoragekey",
         "type": "toggle",
         "img": "images/items/key.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "thefieldstoreroomkey"
+        "codes": "thefieldstoragekey"
     },
     {
         "name": "villageofthebluemaidenbook",
@@ -1295,14 +1309,6 @@
         "codes": "tingletrap"
     },
     {
-        "name": "pyramidsoutheastmoongate",
-        "type": "toggle",
-        "img": "images/items/moon_pearl.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pyramidsoutheastmoongate"
-    },
-    {
         "name": "easterntemplesouthwestkey",
         "type": "toggle",
         "img": "images/items/key.png",
@@ -1343,12 +1349,12 @@
         "codes": "bigredforcegem"
     },
     {
-        "name": "infiltrantionofhyrulecastlebasementstairsmoongate",
+        "name": "infiltrationofhyrulecastlebasementstairsmoongate",
         "type": "toggle",
         "img": "images/items/moon_pearl.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "infiltrantionofhyrulecastlebasementstairsmoongate"
+        "codes": "infiltrationofhyrulecastlebasementstairsmoongate"
     },
     {
         "name": "purpleforcegem",

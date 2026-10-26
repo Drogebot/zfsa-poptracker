@@ -1,6 +1,11 @@
 local ZfsaMap = require("scripts.zfsa_map")
 
 local current_key = nil
+local itemPedestalsEnabled = false
+
+function item_pedestals()
+    return itemPedestalsEnabled
+end
 
 local stage_to_map = {
 	[0] = "Hyrule",
@@ -58,14 +63,16 @@ local function handle_map_state(key, value)
 end
 
 Archipelago:AddClearHandler("zfsa_map_clear",
-    function()
+    function(slot_data)
         if Archipelago.PlayerNumber == nil
             or Archipelago.PlayerNumber < 0
             or Archipelago.TeamNumber == nil
             or Archipelago.TeamNumber < 0 then
             return
         end
-
+		
+		itemPedestalsEnabled = slot_data ~= nil and (slot_data.item_pedestals == true or slot_data.item_pedestals == 1)
+		
         current_key = string.format("zfsa_map_%d_%d", Archipelago.TeamNumber, Archipelago.PlayerNumber)
 
         Archipelago:SetNotify({current_key})

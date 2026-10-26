@@ -995,6 +995,412 @@
             "shape": "rect"
           }
         ]
+      },
+      {
+        "name": "2D Entrance Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 969,
+            "y": 3024,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "2D Ascent Pedestal",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "progressivebow"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2545,
+            "y": 3716,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3D Entrance Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,thedarkcloud3dmoongate","progressivebombs,progressivebow,thedarkcloud3dmoongate","progressivebow,progressivepegasusboots,thedarkcloud3dmoongate","progressivebow,progressiverocsfeather,thedarkcloud3dmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2689,
+            "y": 3175,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3D Entrance Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,thedarkcloud3dmoongate","progressivebombs,progressivebow,thedarkcloud3dmoongate","progressivebow,progressivepegasusboots,thedarkcloud3dmoongate","progressivebow,progressiverocsfeather,thedarkcloud3dmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2770,
+            "y": 3173,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3D Entrance Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,thedarkcloud3dmoongate","progressivebombs,progressivebow,thedarkcloud3dmoongate","progressivebow,progressivepegasusboots,thedarkcloud3dmoongate","progressivebow,progressiverocsfeather,thedarkcloud3dmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2691,
+            "y": 3254,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "3D Entrance Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,thedarkcloud3dmoongate","progressivebombs,progressivebow,thedarkcloud3dmoongate","progressivebow,progressivepegasusboots,thedarkcloud3dmoongate","progressivebow,progressiverocsfeather,thedarkcloud3dmoongate"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2769,
+            "y": 3255,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Windy Room Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivemagichammer","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 3258,
+            "y": 2751,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Windy Room Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivemagichammer","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 3275,
+            "y": 2751,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Windy Room Pedestal 3",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivemagichammer","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 3291,
+            "y": 2749,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Windy Room Pedestal 4",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivemagichammer","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 3307,
+            "y": 2751,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Candle Room Left Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","[glitches],progressivebow,progressivepegasusboots_stage2","progressivebombs,progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivepegasusboots_stage2","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather","progressivebow,progressivepegasusboots,progressivepegasusboots_stage2","progressivebow,progressivepegasusboots_stage2,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2771,
+            "y": 939,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Candle Room Left Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","[glitches],progressivebow,progressivepegasusboots_stage2","progressivebombs,progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivepegasusboots_stage2","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather","progressivebow,progressivepegasusboots,progressivepegasusboots_stage2","progressivebow,progressivepegasusboots_stage2,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 2916,
+            "y": 940,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Candle Room Right Pedestal 1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","[glitches],progressivebow,progressivepegasusboots_stage2","progressivebombs,progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivepegasusboots_stage2","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather","progressivebow,progressivepegasusboots,progressivepegasusboots_stage2","progressivebow,progressivepegasusboots_stage2,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 3552,
+            "y": 940,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
+      },
+      {
+        "name": "Candle Room Right Pedestal 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "[glitches],progressivebow,progressivemagichammer","[glitches],progressivebow,progressivepegasusboots_stage2","progressivebombs,progressivebow,progressivemagichammer","progressivebombs,progressivebow,progressivepegasusboots_stage2","progressivebow,progressivemagichammer,progressivepegasusboots","progressivebow,progressivemagichammer,progressiverocsfeather","progressivebow,progressivepegasusboots,progressivepegasusboots_stage2","progressivebow,progressivepegasusboots_stage2,progressiverocsfeather"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Dark Cloud",
+            "x": 3696,
+            "y": 943,
+            "size": 60,
+            "shape": "rect"
+          }
+        ],
+        "visibility_rules": [
+          "$item_pedestals"
+        ]
       }
     ]
   }
